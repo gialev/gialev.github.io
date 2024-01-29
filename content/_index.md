@@ -8,10 +8,10 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
+        Gianluca Levi's 
+        Research Webpage
+      # image:
+      #  filename: welcome.jpg
       text: |
         <br>
         
