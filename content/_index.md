@@ -8,7 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        Electronic Structure Theory and Molecular Dynamics at the University of Iceland
+        Electronic Structure Theory and Molecular 
+        Dynamics at the University of Iceland
       # image:
       #  filename: welcome.jpg
       text: |
