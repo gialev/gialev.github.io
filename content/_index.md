@@ -9,7 +9,7 @@ sections:
     content:
       title: |
         Electronic Structure Theory and Molecular 
-        Dynamics at the University of Iceland
+        Dynamics Group at the University of Iceland
       # image:
       #  filename: welcome.jpg
       text: |
