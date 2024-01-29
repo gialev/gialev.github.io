@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Gianluca Levi's 
+        Electronic Structure Theory and Molecular Dynamics at the University of Iceland
         Research Webpage
       # image:
       #  filename: welcome.jpg
