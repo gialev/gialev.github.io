@@ -9,7 +9,6 @@ sections:
     content:
       title: |
         Electronic Structure Theory and Molecular Dynamics at the University of Iceland
-        Research Webpage
       # image:
       #  filename: welcome.jpg
       text: |
