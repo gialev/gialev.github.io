@@ -3,6 +3,8 @@ title:
 date: 2024-01-30
 ---
 
+# Group Members
+
 ![image](content/images/gianluca_portrait.png)
 
 ### Gianluca Levi   
