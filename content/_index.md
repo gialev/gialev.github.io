@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        Overview of the group coming soon!
+        Description of the group coming soon!
 # News Block 
 #  - block: collection
 #    content:
