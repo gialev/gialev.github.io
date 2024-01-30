@@ -8,7 +8,7 @@ date: 2024-01-30
 ![image](content/images/gianluca_portrait.png)
 
 ### Gianluca Levi   
-Group leader   
+<span style="color: darkgrey;">Group leader</span>    
 [Science Institute of the University of Iceland](https://raunvisindastofnun.hi.is/the_science_institute)  
 VR-III Hjarðarhagi 2, 107 Reykjavík  
 [ORCID](https://orcid.org/0000-0002-4542-0653) [Web of Science](https://www.webofscience.com/wos/author/record/GYQ-9226-2022) [Google Scholar](https://scholar.google.com/citations?user=HhElK98AAAAJ&hl=en)  
