@@ -3,6 +3,12 @@ title: People
 date: 2022-10-24
 ---
 
+<center>
+
+# Group Members
+
+</center>
+
 <style type="text/css">
 img.photo {
   height: 250px;
