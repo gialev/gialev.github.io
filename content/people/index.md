@@ -47,11 +47,11 @@ bob9@hi.is
 # Collaborations
 
 ### University of Iceland
-[**Elvar Örn Jónsson**](https://iris.rais.is/en/persons/elvar-%C3%B6rn-j%C3%B3nsson)    
-[**Hannes Jónsson**](https://hj.hi.is/indexE.html)    
+[Elvar Örn Jónsson](https://iris.rais.is/en/persons/elvar-%C3%B6rn-j%C3%B3nsson)    
+[Hannes Jónsson](https://hj.hi.is/indexE.html)    
 
 ### Technical University of Denmark (DTU)
-[**Asmus Ougaard Dohn**](https://orbit.dtu.dk/en/persons/asmus-ougaard-dohn)    
-[**Kristoffer Haldrup**](https://orbit.dtu.dk/en/persons/kristoffer-haldrup)    
-[**Luca Laraia**](https://www.kemi.dtu.dk/english/research/organic-inorganic-chemistry/kemisk_biologi/lucalaraia)    
-[**Martin Meedom Nielsen**](https://orbit.dtu.dk/en/persons/martin-meedom-nielsen)
+[Asmus Ougaard Dohn](https://orbit.dtu.dk/en/persons/asmus-ougaard-dohn)    
+[Kristoffer Haldrup](https://orbit.dtu.dk/en/persons/kristoffer-haldrup)    
+[Luca Laraia](https://www.kemi.dtu.dk/english/research/organic-inorganic-chemistry/kemisk_biologi/lucalaraia)    
+[Martin Meedom Nielsen](https://orbit.dtu.dk/en/persons/martin-meedom-nielsen)
