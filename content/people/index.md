@@ -5,7 +5,11 @@ date: 2024-01-30
 
 # Group Members
 
-![image](../images/gianluca_portrait.png)
+<figure style="float: left; margin-right: 20px;">
+  <img src="../images/gianluca_portrait.png" alt="Gialuca's portrait" style="width: 100px; height: 100px;">
+</figure>
+
+<!-- ![image](../images/gianluca_portrait.png) -->
 
 ### Gianluca Levi   
 <span style="color: darkgrey; font-weight: bold;">Group leader </span>    
