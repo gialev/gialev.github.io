@@ -3,14 +3,7 @@ title: Group Members
 date: 2022-10-24
 ---
 
-<style type="text/css">
-img.photo {
-  height: 100px;
-  width: 100px;
-}
-</style>
-
-<img class="photo" src="images/gianluca_portrait.png" alt="giale" /> 
+![image](content/images/gianluca_portrait.png)
 
 ### Gianluca Levi   
 Group leader   
