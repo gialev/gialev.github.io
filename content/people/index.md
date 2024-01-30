@@ -34,7 +34,3 @@ PhD student (co-supervised, main supervisor: [Hannes Jónsson](https://hj.hi.is/
 [Science Institute of the University of Iceland](https://raunvisindastofnun.hi.is/the_science_institute)  
 VR-III Hjarðarhagi 2, 107 Reykjavík  
 bob9@hi.is
-
-# Collaborators
-
-
