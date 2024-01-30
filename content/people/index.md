@@ -41,3 +41,15 @@ yla1@hi.is
 [Science Institute of the University of Iceland](https://raunvisindastofnun.hi.is/the_science_institute)  
 VR-III Hjarðarhagi 2, 107 Reykjavík  
 bob9@hi.is
+
+<br>
+
+# Collaborations
+
+### University of Iceland
+[**Hannes Jónsson**](https://hj.hi.is/indexE.html)    
+[**Elvar Örn Jónsson**](https://iris.rais.is/en/persons/elvar-%C3%B6rn-j%C3%B3nsson)
+
+### Technical University of Denmark (DTU)
+
+
