@@ -5,17 +5,17 @@ date: 2024-01-30
 
 # Group Members
 
-<img src="../images/gianluca_portrait.png" 
+<img src="../images/gianluca_portrait.png"  
      alt="Gianluca's portrait" 
      style="width: 240px; height: 260px; float: left; margin-right: 20px;">
 
 <p style="margin-top: 65px;">
 
-### Gianluca Levi
+### Gianluca Levi 
 <span style="color: dimgray; font-weight: bold;">Group leader </span>    
 [Science Institute of the University of Iceland](https://raunvisindastofnun.hi.is/the_science_institute)  
 VR-III Hjarðarhagi 2, 107 Reykjavík  
-[ORCID](https://orcid.org/0000-0002-4542-0653) &nbsp; [Web of Science](https://www.webofscience.com/wos/author/record/GYQ-9226-2022) &nbsp; [Google Scholar](https://scholar.google.com/citations?user=HhElK98AAAAJ&hl=en)  
+[ORCID](https://orcid.org/0000-0002-4542-0653) &nbsp; [Web of Science](https://www.webofscience.com/wos/author/record/GYQ-9226-2022) &nbsp; [Google Scholar](https://scholar.google.com/citations?user=HhElK98AAAAJ&hl=en) &nbsp; [CV](../doc/cv_giale.pdf)
 +354 8326622   
 giale@hi.is
 </p>
@@ -47,9 +47,11 @@ bob9@hi.is
 # Collaborations
 
 ### University of Iceland
+[**Elvar Örn Jónsson**](https://iris.rais.is/en/persons/elvar-%C3%B6rn-j%C3%B3nsson)    
 [**Hannes Jónsson**](https://hj.hi.is/indexE.html)    
-[**Elvar Örn Jónsson**](https://iris.rais.is/en/persons/elvar-%C3%B6rn-j%C3%B3nsson)
 
 ### Technical University of Denmark (DTU)
-
-
+[**Asmus Ougaard Dohn**](https://orbit.dtu.dk/en/persons/asmus-ougaard-dohn)    
+[**Kristoffer Haldrup**](https://orbit.dtu.dk/en/persons/kristoffer-haldrup)    
+[**Luca Laraia**](https://www.kemi.dtu.dk/english/research/organic-inorganic-chemistry/kemisk_biologi/lucalaraia)    
+[**Martin Meedom Nielsen**](https://orbit.dtu.dk/en/persons/martin-meedom-nielsen)
