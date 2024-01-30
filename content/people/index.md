@@ -10,7 +10,7 @@ img.photo {
 }
 </style>
 
-<img class="photo" src="static/images/gianluca_portrait.png" alt="giale" />
+<img class="photo" src="static/uploads/figures/gianluca_portrait.png" alt="giale" />
 
 ### Gianluca Levi   
 Group leader   
