@@ -5,13 +5,12 @@ date: 2024-01-30
 
 # Group Members
 
-<figure style="float: left; margin-right: 20px;">
-  <img src="../images/gianluca_portrait.png" alt="Gialuca's portrait" style="width: 100px; height: 100px;">
-</figure>
-
 <!-- ![image](../images/gianluca_portrait.png) -->
 
-### Gianluca Levi   
+### Gianluca Levi
+<figure style="float: left; margin-right: 20px;">
+  <img src="../images/gianluca_portrait.png" alt="Gialuca's portrait" style="width: 100px; height: 100px;">
+</figure>   
 <span style="color: darkgrey; font-weight: bold;">Group leader </span>    
 [Science Institute of the University of Iceland](https://raunvisindastofnun.hi.is/the_science_institute)  
 VR-III Hjarðarhagi 2, 107 Reykjavík  
