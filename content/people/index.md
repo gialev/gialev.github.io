@@ -20,9 +20,16 @@ VR-III Hjarðarhagi 2, 107 Reykjavík
 +354 8326622   
 giale@hi.is
 
-### Elli Selenius   
+### Elli Inkeri Selenius   
 Postdoc   
 [Science Institute of the University of Iceland](https://raunvisindastofnun.hi.is/the_science_institute)  
 VR-III Hjarðarhagi 2, 107 Reykjavík  
 [ORCID](https://orcid.org/0000-0002-4542-0653) [Web of Science](https://www.webofscience.com/wos/author/record/GYQ-9226-2022) [Google Scholar](https://scholar.google.com/citations?user=HhElK98AAAAJ&hl=en)  
 elliselenius@hi.is
+
+### Yorick Leonard A. Schmerwitz 
+PhD student   
+[Science Institute of the University of Iceland](https://raunvisindastofnun.hi.is/the_science_institute)  
+VR-III Hjarðarhagi 2, 107 Reykjavík  
+[ORCID](https://orcid.org/0000-0002-4542-0653) [Web of Science](https://www.webofscience.com/wos/author/record/GYQ-9226-2022) [Google Scholar](https://scholar.google.com/citations?user=HhElK98AAAAJ&hl=en)  
+yla1@hi.is
