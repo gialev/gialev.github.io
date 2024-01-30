@@ -2,12 +2,12 @@
 title: People
 date: 2022-10-24
 
-#type: landing
+type: landing
 
-#sections:
-#  - block: people
-#    content:
-#      title: Group members
+sections:
+  - block: people
+    content:
+      title: Group members
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
 #      user_groups:
