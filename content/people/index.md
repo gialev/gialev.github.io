@@ -55,3 +55,6 @@ bob9@hi.is
 [Kristoffer Haldrup](https://orbit.dtu.dk/en/persons/kristoffer-haldrup)    
 [Luca Laraia](https://www.kemi.dtu.dk/english/research/organic-inorganic-chemistry/kemisk_biologi/lucalaraia)    
 [Martin Meedom Nielsen](https://orbit.dtu.dk/en/persons/martin-meedom-nielsen)
+
+### University of Erlangen–Nuremberg
+[Philipp Hansmann](https://www.agmm.nat.fau.eu/)
