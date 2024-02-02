@@ -17,14 +17,16 @@
       <link>https://example.com/people/</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/people/</guid>
-      <description>&lt;h1 id=&#34;group-members&#34;&gt;Group Members&lt;/h1&gt;
+      <description>&lt;hr&gt;
+&lt;h1 id=&#34;group-members&#34;&gt;Group Members&lt;/h1&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;img src=&#34;../images/gianluca_portrait.png&#34;  
 alt=&#34;Gianluca&#39;s portrait&#34; 
 style=&#34;width: 240px; height: 260px; float: left; margin-right: 20px;&#34;&gt;&lt;/p&gt;
 &lt;p style=&#34;margin-top: 65px;&#34;&gt;
 &lt;h3 id=&#34;gianluca-levi&#34;&gt;Gianluca Levi&lt;/h3&gt;
 &lt;p&gt;&lt;span style=&#34;color: dimgray; font-weight: bold;&#34;&gt;Group leader &lt;/span&gt; &lt;br&gt;
-&lt;a href=&#34;https://raunvisindastofnun.hi.is/the_science_institute&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Institute of the University of Iceland&lt;/a&gt;&lt;br&gt;
+Science Institute of the University of Iceland &lt;br&gt;
 VR-III Hjarðarhagi 2, 107 Reykjavík&lt;br&gt;
 &lt;a href=&#34;https://orcid.org/0000-0002-4542-0653&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORCID&lt;/a&gt;   &lt;a href=&#34;https://www.webofscience.com/wos/author/record/GYQ-9226-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web of Science&lt;/a&gt;   &lt;a href=&#34;https://scholar.google.com/citations?user=HhElK98AAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;   &lt;a href=&#34;../doc/cv_giale.pdf&#34;&gt;CV&lt;/a&gt;
 +354 8326622&lt;br&gt;
@@ -33,84 +35,212 @@ VR-III Hjarðarhagi 2, 107 Reykjavík&lt;br&gt;
 &lt;div style=&#34;clear: both;&#34;&gt;&lt;/div&gt;
 &lt;h3 id=&#34;elli-inkeri-selenius&#34;&gt;Elli Inkeri Selenius&lt;/h3&gt;
 &lt;p&gt;&lt;span style=&#34;color: dimgray; font-weight: bold;&#34;&gt;Postdoc &lt;/span&gt; &lt;br&gt;
-&lt;a href=&#34;https://raunvisindastofnun.hi.is/the_science_institute&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Institute of the University of Iceland&lt;/a&gt;&lt;br&gt;
+Science Institute of the University of Iceland   &lt;br&gt;
 VR-III Hjarðarhagi 2, 107 Reykjavík&lt;br&gt;
-&lt;a href=&#34;https://orcid.org/0000-0003-4286-0861&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORCID&lt;/a&gt; &lt;a href=&#34;https://www.webofscience.com/wos/author/record/DYK-2893-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web of Science&lt;/a&gt; &lt;a href=&#34;https://scholar.google.com/citations?user=vxsoicEAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://orcid.org/0000-0003-4286-0861&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORCID&lt;/a&gt;   &lt;a href=&#34;https://www.webofscience.com/wos/author/record/DYK-2893-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web of Science&lt;/a&gt;   &lt;a href=&#34;https://scholar.google.com/citations?user=vxsoicEAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;mailto:elliselenius@hi.is&#34;&gt;elliselenius@hi.is&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;yorick-leonard-a-schmerwitz&#34;&gt;Yorick Leonard A. Schmerwitz&lt;/h3&gt;
 &lt;p&gt;&lt;span style=&#34;color: dimgray; font-weight: bold;&#34;&gt;PhD student &lt;/span&gt; (co-supervised, main supervisor: Prof. &lt;a href=&#34;https://hj.hi.is/indexE.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hannes Jónsson&lt;/a&gt;)&lt;br&gt;
-&lt;a href=&#34;https://raunvisindastofnun.hi.is/the_science_institute&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Institute of the University of Iceland&lt;/a&gt;&lt;br&gt;
+Science Institute of the University of Iceland &lt;br&gt;
 VR-III Hjarðarhagi 2, 107 Reykjavík&lt;br&gt;
-&lt;a href=&#34;https://orcid.org/0000-0001-6277-0359&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORCID&lt;/a&gt; &lt;a href=&#34;https://www.webofscience.com/wos/author/record/GMV-3521-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web of Science&lt;/a&gt; &lt;a href=&#34;https://scholar.google.com/citations?user=USpMPPYAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://orcid.org/0000-0001-6277-0359&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORCID&lt;/a&gt;   &lt;a href=&#34;https://www.webofscience.com/wos/author/record/GMV-3521-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web of Science&lt;/a&gt;   &lt;a href=&#34;https://scholar.google.com/citations?user=USpMPPYAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;mailto:yla1@hi.is&#34;&gt;yla1@hi.is&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;benedikt-orri-birgisson&#34;&gt;Benedikt Orri Birgisson&lt;/h3&gt;
 &lt;p&gt;&lt;span style=&#34;color: dimgray; font-weight: bold;&#34;&gt;PhD student &lt;/span&gt; (co-supervised, main supervisor: Prof. &lt;a href=&#34;https://hj.hi.is/indexE.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hannes Jónsson&lt;/a&gt;)&lt;br&gt;
-&lt;a href=&#34;https://raunvisindastofnun.hi.is/the_science_institute&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Institute of the University of Iceland&lt;/a&gt;&lt;br&gt;
+Science Institute of the University of Iceland &lt;br&gt;
 VR-III Hjarðarhagi 2, 107 Reykjavík&lt;br&gt;
 &lt;a href=&#34;mailto:bob9@hi.is&#34;&gt;bob9@hi.is&lt;/a&gt;&lt;/p&gt;
 &lt;br&gt;
+&lt;hr&gt;
 &lt;h1 id=&#34;collaborations&#34;&gt;Collaborations&lt;/h1&gt;
+&lt;hr&gt;
 &lt;h3 id=&#34;university-of-iceland&#34;&gt;University of Iceland&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://iris.rais.is/en/persons/elvar-%C3%B6rn-j%C3%B3nsson&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elvar Örn Jónsson&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://hj.hi.is/indexE.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hannes Jónsson&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;technical-university-of-denmark-dtu&#34;&gt;Technical University of Denmark (DTU)&lt;/h3&gt;
+&lt;h3 id=&#34;technical-university-of-denmark&#34;&gt;Technical University of Denmark&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://orbit.dtu.dk/en/persons/asmus-ougaard-dohn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Asmus Ougaard Dohn&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://orbit.dtu.dk/en/persons/kristoffer-haldrup&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kristoffer Haldrup&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://www.kemi.dtu.dk/english/research/organic-inorganic-chemistry/kemisk_biologi/lucalaraia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Luca Laraia&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://orbit.dtu.dk/en/persons/martin-meedom-nielsen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martin Meedom Nielsen&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;university-of-erlangennuremberg&#34;&gt;University of Erlangen–Nuremberg&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.agmm.nat.fau.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Philipp Hansmann&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Characterization of deformational isomerization potential and interconversion dynamics with ultrafast x-ray solution scattering</title>
+      <link>https://example.com/publication/powers-riggs-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/powers-riggs-2024/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>GPAW: open Python package for electronic-structure calculations</title>
+      <link>https://example.com/publication/mortensen-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/mortensen-2024/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Orbital optimized vs time-dependent density functional calculations of intramolecular charge transfer excited states</title>
+      <link>https://example.com/publication/selenius-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/selenius-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atomic-scale observation of solvent reorganization influencing photoinduced structural dynamics in a copper complex photosensitizer</title>
+      <link>https://example.com/publication/katayama-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/katayama-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculations of Excited Electronic States by Converging on Saddle Points Using Generalized Mode Following</title>
+      <link>https://example.com/publication/schmerwitz-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/schmerwitz-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronic excitations of the charged nitrogen-vacancy center in diamond obtained using time-independent variational density functional calculations</title>
+      <link>https://example.com/publication/ivanov-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ivanov-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orbital-optimized Density Functional Calculations of Molecular Rydberg Excited States with Real Space Grid Representation and Self-Interaction Correction</title>
+      <link>https://example.com/publication/sigurdarson-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/sigurdarson-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Density Functional Calculations of Excited States: Conical Intersection and Avoided Crossing in Ethylene Bond Twisting</title>
+      <link>https://example.com/publication/schmerwitz-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/schmerwitz-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method for Calculating Excited Electronic States Using Density Functionals and Direct Orbital Optimization with Real Space Grid or Plane-Wave Basis Set</title>
+      <link>https://example.com/publication/ivanov-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ivanov-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On how mild oxidation affects the structure of carbons: Comparative analysis by different techniques</title>
+      <link>https://example.com/publication/levi-2020-aecs/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/levi-2020-aecs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New approaches to study excited states in density functional theory: general discussion</title>
+      <link>https://example.com/publication/brandenburg-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/brandenburg-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the interplay of solvent and conformational effects in simulated excited-state dynamics of a copper phenanthroline photosensitizer</title>
+      <link>https://example.com/publication/levi-2020-pccp/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/levi-2020-pccp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Calculations of Excited States Via Direct Optimization of Orbitals in DFT</title>
+      <link>https://example.com/publication/levi-2020-fd/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/levi-2020-fd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Density Functional Calculations of Excited States via Direct Optimization</title>
+      <link>https://example.com/publication/levi-2020-jctc/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/levi-2020-jctc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Excited-State Solvation Structure of Transition Metal Complexes from Molecular Dynamics Simulations and Assessment of Partial Atomic Charge Methods</title>
+      <link>https://example.com/publication/abedi-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/abedi-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theoretical Evidence of Solvent-Mediated Excited-State Dynamics in a Functionalized Iron Sensitizer</title>
+      <link>https://example.com/publication/papai-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/papai-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultrafast X-Ray Scattering Measurements of Coherent Structural Dynamics on the Ground-State Potential Energy Surface of a Diplatinum Molecule</title>
+      <link>https://example.com/publication/haldrup-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/haldrup-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anisotropy enhanced X-ray scattering from solvated transition metal complexes research papers</title>
+      <link>https://example.com/publication/biasin-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/biasin-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solution structure and ultrafast vibrational relaxation of the PtPOP complex revealed by ∆SCF-QM/MM Direct Dynamics simulations</title>
+      <link>https://example.com/publication/levi-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/levi-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid-Based Projector Augmented Wave (GPAW) Implementation of Quantum Mechanics/Molecular Mechanics (QM/MM) Electrostatic Embedding and Application to a Solvated Diplatinum Complex</title>
+      <link>https://example.com/publication/dohn-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dohn-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanism and Thermochemistry of Coal Char Oxidation and Desorption of Surface Oxides</title>
+      <link>https://example.com/publication/levi-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/levi-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing the chemical nature of surface oxides during coal char oxidation by high-resolution XPS</title>
+      <link>https://example.com/publication/levi-2015/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/levi-2015/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tokushi Sato | Gianluca Levi&#39;s research webpage</title>
+    <link>https://example.com/author/tokushi-sato/</link>
+      <atom:link href="https://example.com/author/tokushi-sato/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tokushi Sato</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hud6209fa0764823b87d5ea48ec267c043_175783_512x512_fill_lanczos_center_3.png</url>
+      <title>Tokushi Sato</title>
+      <link>https://example.com/author/tokushi-sato/</link>
+    </image>
+    
+    <item>
+      <title>Atomic-scale observation of solvent reorganization influencing photoinduced structural dynamics in a copper complex photosensitizer</title>
+      <link>https://example.com/publication/katayama-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/katayama-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
