@@ -777,13 +777,13 @@
     <loc>https://example.com/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/funding/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/doi10.1103/physrevlett.122.063001-urlhttps/doi/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/funding/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

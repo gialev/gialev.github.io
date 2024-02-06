@@ -17,15 +17,13 @@
       <link>https://example.com/people/</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/people/</guid>
-      <description>&lt;hr&gt;
-&lt;h1 style=&#34;text-align: center;&#34;&gt; Group Members &lt;/h1&gt;
-&lt;hr&gt;
+      <description>&lt;h1 style=&#34;text-align: center;&#34;&gt; Group Members &lt;/h1&gt;
 &lt;p&gt;&lt;img src=&#34;../images/gianluca_portrait.png&#34;  
 alt=&#34;Gianluca&#39;s portrait&#34; 
 style=&#34;width: 240px; height: 260px; float: left; margin-right: 20px;&#34;&gt;&lt;/p&gt;
 &lt;p style=&#34;margin-top: 75px;&#34;&gt;
 &lt;h3 id=&#34;gianluca-levi&#34;&gt;Gianluca Levi&lt;/h3&gt;
-&lt;p&gt;&lt;span style=&#34;color: dimgray; font-weight: bold;&#34;&gt;Group leader &lt;/span&gt; &lt;br&gt;
+&lt;p&gt;&lt;span style=&#34;color: #cb5041; font-weight: bold;&#34;&gt;Group leader &lt;/span&gt; &lt;br&gt;
 Science Institute of the University of Iceland &lt;br&gt;
 VR-III Hjarðarhagi 2, 107 Reykjavík&lt;br&gt;
 &lt;a href=&#34;https://orcid.org/0000-0002-4542-0653&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORCID&lt;/a&gt;   &lt;a href=&#34;https://www.webofscience.com/wos/author/record/GYQ-9226-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web of Science&lt;/a&gt;   &lt;a href=&#34;https://scholar.google.com/citations?user=HhElK98AAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;   &lt;a href=&#34;../doc/cv_giale.pdf&#34;&gt;CV&lt;/a&gt;
@@ -34,7 +32,7 @@ VR-III Hjarðarhagi 2, 107 Reykjavík&lt;br&gt;
 &lt;/p&gt;
 &lt;div style=&#34;clear: both;&#34;&gt;&lt;/div&gt;
 &lt;h3 id=&#34;elli-inkeri-selenius&#34;&gt;Elli Inkeri Selenius&lt;/h3&gt;
-&lt;p&gt;&lt;span style=&#34;color: dimgray; font-weight: bold;&#34;&gt;Postdoc &lt;/span&gt; &lt;br&gt;
+&lt;p&gt;&lt;span style=&#34;color: #cb5041; font-weight: bold;&#34;&gt;Postdoc &lt;/span&gt; &lt;br&gt;
 Science Institute of the University of Iceland   &lt;br&gt;
 VR-III Hjarðarhagi 2, 107 Reykjavík&lt;br&gt;
 &lt;a href=&#34;https://orcid.org/0000-0003-4286-0861&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORCID&lt;/a&gt;   &lt;a href=&#34;https://www.webofscience.com/wos/author/record/DYK-2893-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web of Science&lt;/a&gt;   &lt;a href=&#34;https://scholar.google.com/citations?user=vxsoicEAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;&lt;br&gt;
@@ -45,21 +43,19 @@ alt=&#34;Yorick&#39;s portrait&#34;
 style=&#34;width: 240px; height: 288px; float: left; margin-right: 20px;&#34;&gt;&lt;/p&gt;
 &lt;p style=&#34;margin-top: 65px;&#34;&gt;
 &lt;h3 id=&#34;yorick-leonard-a-schmerwitz&#34;&gt;Yorick Leonard A. Schmerwitz&lt;/h3&gt;
-&lt;p&gt;&lt;span style=&#34;color: dimgray; font-weight: bold;&#34;&gt;PhD student &lt;/span&gt; (co-supervised, main supervisor: Prof. &lt;a href=&#34;https://hj.hi.is/indexE.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hannes Jónsson&lt;/a&gt;)&lt;br&gt;
+&lt;p&gt;&lt;span style=&#34;color: #cb5041; font-weight: bold;&#34;&gt;PhD student &lt;/span&gt; (co-supervised, main supervisor: Prof. &lt;a href=&#34;https://hj.hi.is/indexE.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hannes Jónsson&lt;/a&gt;)&lt;br&gt;
 Science Institute of the University of Iceland &lt;br&gt;
 VR-III Hjarðarhagi 2, 107 Reykjavík&lt;br&gt;
 &lt;a href=&#34;https://orcid.org/0000-0001-6277-0359&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORCID&lt;/a&gt;   &lt;a href=&#34;https://www.webofscience.com/wos/author/record/GMV-3521-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web of Science&lt;/a&gt;   &lt;a href=&#34;https://scholar.google.com/citations?user=USpMPPYAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;mailto:yla1@hi.is&#34;&gt;yla1@hi.is&lt;/a&gt;&lt;/p&gt;
 &lt;div style=&#34;clear: both;&#34;&gt;&lt;/div&gt;
 &lt;h3 id=&#34;benedikt-orri-birgisson&#34;&gt;Benedikt Orri Birgisson&lt;/h3&gt;
-&lt;p&gt;&lt;span style=&#34;color: dimgray; font-weight: bold;&#34;&gt;PhD student &lt;/span&gt; (co-supervised, main supervisor: Prof. &lt;a href=&#34;https://hj.hi.is/indexE.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hannes Jónsson&lt;/a&gt;)&lt;br&gt;
+&lt;p&gt;&lt;span style=&#34;color: #cb5041; font-weight: bold;&#34;&gt;PhD student &lt;/span&gt; (co-supervised, main supervisor: Prof. &lt;a href=&#34;https://hj.hi.is/indexE.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hannes Jónsson&lt;/a&gt;)&lt;br&gt;
 Science Institute of the University of Iceland &lt;br&gt;
 VR-III Hjarðarhagi 2, 107 Reykjavík&lt;br&gt;
 &lt;a href=&#34;mailto:bob9@hi.is&#34;&gt;bob9@hi.is&lt;/a&gt;&lt;/p&gt;
 &lt;br&gt;
-&lt;hr&gt;
 &lt;h1 style=&#34;text-align: center;&#34;&gt; Collaborations &lt;/h1&gt;
-&lt;hr&gt;
 &lt;h3 id=&#34;university-of-iceland&#34;&gt;University of Iceland&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://iris.rais.is/en/persons/elvar-%C3%B6rn-j%C3%B3nsson&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elvar Örn Jónsson&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://hj.hi.is/indexE.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hannes Jónsson&lt;/a&gt;&lt;/p&gt;
@@ -258,26 +254,93 @@ VR-III Hjarðarhagi 2, 107 Reykjavík&lt;br&gt;
     </item>
     
     <item>
-      <title>Funding</title>
+      <title></title>
       <link>https://example.com/funding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/funding/</guid>
-      <description>&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Header 1&lt;/th&gt;
-&lt;th&gt;Header 2&lt;/th&gt;
-&lt;th&gt;Header 3&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Row 1, Col 1&lt;/td&gt;
-&lt;td&gt;Row 1, Col 2&lt;/td&gt;
-&lt;td&gt;Row 1, Col 2&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+      <description>&lt;h1 style=&#34;text-align: center;&#34;&gt; Funding &lt;/h1&gt;
+&lt;head&gt;
+    &lt;style&gt;
+        /* Normal link style */
+        a {
+            color: black; /* Set the default color of the link */
+            text-decoration: none; /* Remove underline, if you want */
+        }
+        /* Style for the link when hovered over */
+        a:hover {
+            color: #105fbd; /* Set the color to blue on hover */
+            text-decoration: underline; /* Add underline on hover */
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            border-top: none; /* Remove top border of the table */
+        }
+        td {
+            padding: 10px;
+            border: 1px solid transparent; /* Set border color to transparent */
+            width: 50%; /* Set equal width for both columns */
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin-bottom: 10px;
+        }
+    &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt; &lt;img src=&#34;../images/irf_logo.png&#34; alt=&#34;IRF logo&#34; style=&#34;width: 285px; height: 195px;&#34;&gt;
+         &lt;span style=&#34;color: #cb5041; font-weight: bold;&#34;&gt;CNERGY&lt;/span&gt;:
+         &lt;a href=&#34;https://sjodir.rannis.is/gagnatorg/app_details.php?id=7734&amp;fund=13&amp;eid=6716&#34;&gt; 
+         Ultrafast Charge and Energy Transfer in Sunlight Conversion&lt;/a&gt; &lt;br&gt; 
+         &lt;br&gt;  
+         2021 - 2024 &lt;br&gt;  
+         &lt;b&gt;IRF Project Grant&lt;/b&gt; &lt;br&gt; 
+         Gianluca Levi
+    &lt;/td&gt;
+    &lt;td&gt; &lt;img src=&#34;../images/irf_logo.png&#34; alt=&#34;IRF logo&#34; style=&#34;width: 285px; height: 195px;&#34;&gt; 
+         &lt;a href=&#34;https://sjodir.rannis.is/gagnatorg/app_details.php?id=9678&amp;fund=5&amp;eid=1759&#34;&gt; 
+         Efficient molecular photoswitches identified using simulations of ultrafast charge transfer and solvation dynamics &lt;/a&gt; &lt;br&gt;
+         &lt;br&gt;
+         2023 - 2026 &lt;br&gt;  
+         &lt;b&gt;IRF Postdoctoral Fellowship Grant&lt;/b&gt; &lt;br&gt; 
+         Elli Inkeri Selenius
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt; &lt;img src=&#34;../images/irf_logo.png&#34; alt=&#34;IRF logo&#34; style=&#34;width: 285px; height: 195px;&#34;&gt;
+         &lt;span style=&#34;color: #cb5041; font-weight: bold;&#34;&gt;EQuanDo&lt;/span&gt;:
+         &lt;a href=&#34;https://sjodir.rannis.is/gagnatorg/app_details.php?id=7751&amp;fund=15&amp;eid=6713&#34;&gt; 
+         Energy Transfer in Semiconductor Quantum Dots Studied Using Nonadiabatic Dynamics and Reaction Path Calculations&lt;/a&gt; &lt;br&gt;  
+         &lt;br&gt;
+         2021 - 2024 &lt;br&gt;  
+         &lt;b&gt;IRF Doctoral student Grant&lt;/b&gt; &lt;br&gt; 
+         Yorick Leonard A. Schmerwitz
+    &lt;/td&gt;
+    &lt;td&gt; &lt;img src=&#34;../images/irf_logo.png&#34; alt=&#34;IRF logo&#34; style=&#34;width: 285px; height: 195px;&#34;&gt;
+         &lt;a href=&#34;https://sjodir.rannis.is/gagnatorg/app_details.php?id=7014&amp;fund=15&amp;eid=9816&#34;&gt; 
+         Exploring the Reaction Paths of Solvated Iron Photosensitizers: a Multiscale Nudged Elastic Band Strategy&lt;/a&gt; &lt;br&gt;  
+         &lt;br&gt;
+         2020 - 2023  &lt;br&gt;  
+         &lt;b&gt;IRF Doctoral student Grant&lt;/b&gt; &lt;br&gt; 
+         Benedikt Orri Birgisson
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt; &lt;img src=&#34;../images/irf_logo.png&#34; alt=&#34;IRF logo&#34; style=&#34;width: 285px; height: 195px;&#34;&gt;
+         &lt;a href=&#34;https://sjodir.rannis.is/gagnatorg/app_details.php?id=6070&amp;fund=14&amp;eid=11178&#34;&gt; 
+         Electron-Nuclear Dynamics in Iron-Sensitized Solar Cells: A Unified Model Description from Light Absorption to Charge Separation&lt;/a&gt; &lt;br&gt;  
+         &lt;br&gt;
+         2019 - 2022 &lt;br&gt;  
+         &lt;b&gt;IRF Postdoctoral Fellowship Grant&lt;/b&gt; &lt;br&gt; 
+         Gianluca Levi
+    &lt;/td&gt;
+  &lt;/tr&gt;
 &lt;/table&gt;
+&lt;/body&gt;
 </description>
     </item>
     
