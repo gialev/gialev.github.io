@@ -7,17 +7,16 @@ date: 2024-01-30
 
 <img src="../images/gianluca_portrait.png"  
      alt="Gianluca's portrait" 
-     style="width: 240px; height: 260px; float: left; margin-right: 20px;">
+     style="width: 180px; height: 195px; float: left; margin-right: 20px;">
 
-<p style="margin-top: 75px;">
+<p style="margin-top: 60px;">
 
 ### Gianluca Levi 
 <span style="color: #cb5041; font-weight: bold;">Group leader </span>    
 Science Institute of the University of Iceland    
 VR-III Hjarðarhagi 2, 107 Reykjavík  
-[ORCID](https://orcid.org/0000-0002-4542-0653) &nbsp; [Web of Science](https://www.webofscience.com/wos/author/record/GYQ-9226-2022) &nbsp; [Google Scholar](https://scholar.google.com/citations?user=HhElK98AAAAJ&hl=en) &nbsp; [CV](../doc/cv_giale.pdf)
-+354 8326622   
-giale@hi.is
+[ORCID](https://orcid.org/0000-0002-4542-0653) &nbsp; [Web of Science](https://www.webofscience.com/wos/author/record/GYQ-9226-2022) &nbsp; [Google Scholar](https://scholar.google.com/citations?user=HhElK98AAAAJ&hl=en) &nbsp; [CV](../doc/cv_giale.pdf)     
++354 8326622, giale@hi.is
 </p>
 
 <div style="clear: both;"></div>
@@ -33,9 +32,9 @@ elliselenius@hi.is
 
 <img src="../images/yorick_portrait.png"  
      alt="Yorick's portrait" 
-     style="width: 240px; height: 288px; float: left; margin-right: 20px;">
+     style="width: 180px; height: 220px; float: left; margin-right: 20px;">
 
-<p style="margin-top: 65px;">
+<p style="margin-top: 45px;">
 
 ### Yorick Leonard A. Schmerwitz 
 <span style="color: #cb5041; font-weight: bold;">PhD student </span> (co-supervised, main supervisor: Prof. [Hannes Jónsson](https://hj.hi.is/indexE.html))   
