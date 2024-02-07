@@ -9,7 +9,7 @@ date: 2024-01-30
      alt="Gianluca's portrait" 
      style="width: 180px; height: 195px; float: left; margin-right: 20px;">
 
-<p style="margin-top: 60px;">
+<p style="margin-top: 55px;">
 
 ### Gianluca Levi 
 <span style="color: #cb5041; font-weight: bold;">Group leader </span>    
@@ -34,7 +34,7 @@ elliselenius@hi.is
      alt="Yorick's portrait" 
      style="width: 180px; height: 220px; float: left; margin-right: 20px;">
 
-<p style="margin-top: 45px;">
+<p style="margin-top: 40px;">
 
 ### Yorick Leonard A. Schmerwitz 
 <span style="color: #cb5041; font-weight: bold;">PhD student </span> (co-supervised, main supervisor: Prof. [Hannes Jónsson](https://hj.hi.is/indexE.html))   
