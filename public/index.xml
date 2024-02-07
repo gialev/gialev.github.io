@@ -343,5 +343,84 @@ VR-III Hjarðarhagi 2, 107 Reykjavík&lt;br&gt;
 </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://example.com/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talks/</guid>
+      <description>&lt;h1 style=&#34;text-align: center;&#34;&gt; Talks &lt;/h1&gt;
+&lt;br&gt;
+&lt;ol reversed&gt;
+&lt;li&gt; 
+DanScatt XFEL workshop, University of Aarhus (May 2024)&lt;/li&gt;
+Speaker: &lt;b&gt;Gianluca Levi&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;li&gt; 
+20th ETSF Young Researchers’ Meeting, Université Paul Sabatier, Toulouse (May 2024)&lt;/li&gt;
+Speaker: &lt;b&gt;Gianluca Levi&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;li&gt; &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt; Challenging electronic excitations calculated by converging on saddle points of the electronic energy surface &lt;/span&gt;&lt;br&gt;
+American Physical Society March meeting, Chicago (Mar 2024)&lt;/li&gt;
+Speaker: &lt;b&gt;Gianluca Levi&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;li&gt; &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt; Simulating Solar Energy Conversion at the Atomic Scale Using the Icelandic High Performance Computing Cluster &lt;/span&gt;&lt;br&gt;
+Icelandic research e-infrastructure (IREI) conference, University of Iceland (Nov 2023)&lt;/li&gt;
+Speaker: &lt;b&gt;Gianluca Levi&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;li&gt; &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt; Unraveling the interplay of ultrafast excited state and solvation dynamics with multiscale modeling &lt;/span&gt;&lt;br&gt;
+15th Femtochemistry Conference, Freie Universität Berlin (Aug 2023)&lt;/li&gt;
+Speaker: &lt;b&gt;Gianluca Levi&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;li&gt;  &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt; Improving density functional calculations of intramolecular charge transfer excited states 
+ &lt;/span&gt;&lt;br&gt;
+19th ETSF Young Researchers’ Meeting, Universidad de Zaragoza (Jun 2023)&lt;/li&gt;
+Speaker: &lt;b&gt;Elli Inkeri Selenius &lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;li&gt;  &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt; Calculations of excited electronic states using saddle point search algorithms &lt;/span&gt;&lt;br&gt;
+19th ETSF Young Researchers’ Meeting, Universidad de Zaragoza (Jun 2023)&lt;/li&gt;
+Speaker: &lt;b&gt;Yorick Leonard A. Schmerwitz &lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;li&gt; &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt;New strategies for density functional calculations of excited states and application to ultrafast photorectaions in solution&lt;/span&gt;&lt;br&gt;
+Seminar for Laboratoire de Chimie et Physique Quantiques (LCPQ), Université Paul Sabatier, Toulouse (Jan 2023)&lt;/li&gt;
+Speaker: &lt;b&gt;Gianluca Levi&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;li&gt; &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt;Direct orbital optimization stategies for variational density functional calculations of excited electronic states&lt;/span&gt;&lt;br&gt;
+Conference on Scientific Computation and Differential Equations (SciCADE), University of Iceland (Jul 2022)&lt;/li&gt;
+Speaker: &lt;b&gt;Gianluca Levi&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;li&gt; &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt;Variational density functional calculations of excited states, even at conical intersections and avoided crossings with direct orbital optimization and mode following&lt;/span&gt;&lt;br&gt;
+Conference on Scientific Computation and Differential Equations (SciCADE), University of Iceland (Jul 2022)&lt;/li&gt;
+Speaker: &lt;b&gt;Yorick Leonard A. Schmerwitz &lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;li&gt; &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt;Modelling photoinduced molecular dynamics with solvation effects via QM/MM and excited-state orbital optimized density functional calculations&lt;/span&gt;&lt;br&gt;
+American Chemical Society March meeting, San Diego (Mar 2022)&lt;/li&gt;
+Speaker: &lt;b&gt;Gianluca Levi&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;li&gt; &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt;Direct orbital optimization methods for variational density functional calculations of excited electronic states&lt;/span&gt;&lt;br&gt;
+American Physical Society March meeting, Chicago (Mar 2022)&lt;/li&gt;
+Speaker: &lt;b&gt;Gianluca Levi&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;li&gt; &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt;Excited-state and solvent dynamics during photoinduced molecular reactions in solution&lt;/span&gt;&lt;br&gt;
+Chemistry-Biochemistry Seminar Series, University of Iceland (Nov 2021)&lt;/li&gt;
+Speaker: &lt;b&gt;Gianluca Levi&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;li&gt; &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt;QM/MM and excited-state orbital optimized density functional calculations as a route to simulate photoinduced molecular dynamics in solution&lt;/span&gt;&lt;br&gt;
+Quantum Molecular Dynamics (QMD) seminar, University of Edinburgh, online (Nov 2021)&lt;/li&gt;
+Speaker: &lt;b&gt;Gianluca Levi&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;li&gt; &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt;Excited-state direct orbital optimization for molecular dynamics simulations of photoinduced reactions&lt;/span&gt;&lt;br&gt;
+GPAW 2021: Users and Developers Meeting, online (Jun 2021)&lt;/li&gt;
+Speaker: &lt;b&gt;Gianluca Levi&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;li&gt; &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt;Exploring excited-state and solvation dynamics through multiscale atomistic simulations&lt;/span&gt;&lt;br&gt;
+Quantum Dynamics and Spectroscopy of Functional Molecular Materials, Les Houches workshop (May 2021)&lt;/li&gt;
+Speaker: &lt;b&gt;Gianluca Levi&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;li&gt; &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt;Variational density functional calculations of excited states via direct optimization of orbitals in GPAW&lt;/span&gt;&lt;br&gt;
+Online seminar for Computational Atomic-scale Materials Design (CAMD) section at the Department of Physics, Technical University of Denmark (Nov 2020)&lt;/li&gt;
+Speaker: &lt;b&gt;Gianluca Levi&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;li&gt; &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt;Variational calculations of excited states via direct optimization of the orbitals in DFT&lt;/span&gt;&lt;br&gt;
+New horizons in density functional theory Faraday Discussion conference, online (Sep 2020)&lt;/li&gt;
+Speaker: &lt;b&gt;Gianluca Levi&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;li&gt; &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt;Making movies of atoms in motion during photo-fueled molecular reactions&lt;/span&gt;&lt;br&gt;
+Young Academics of Háskóli Ísland (YAHI) seminar series, University of Iceland (Nov 2019)&lt;/li&gt;
+Speaker: &lt;b&gt;Gianluca Levi&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;li&gt; &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt;Direct Dynamics Simulations Reveal the Ultrafast Structural Relaxation of Photocatalytic Metal Complexes in Solution&lt;/span&gt;&lt;br&gt;
+Chemistry-Biochemistry Seminar Series, University of Iceland (Nov 2018)&lt;/li&gt;
+Speaker: &lt;b&gt;Gianluca Levi&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;li&gt; &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt;QM/MM Direct Dynamics Simulations Reveal the Ultrafast Photorelaxation of Transition Metal Complexes in Solution &lt;/span&gt;&lt;br&gt;
+   Seminar for Prof. Cristiana Di Valentin&#39;s group at the Department of Materials Science, University of Milano-Bicocca (Aug 2018)&lt;/li&gt;
+Speaker: &lt;b&gt;Gianluca Levi&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;li&gt; &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt;Ultrafast Direct Dynamics Simulations of Transition Metal Complexes for Solar Energy Conversion &lt;/span&gt;&lt;br&gt;
+22nd International Symposium on Photochemistry and Photophysics of Coordination Compounds (ISPPCC), Oxford (Jul 2017)&lt;/li&gt;
+Speaker: &lt;b&gt;Gianluca Levi&lt;/b&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

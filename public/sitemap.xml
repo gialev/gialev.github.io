@@ -780,6 +780,9 @@
     <loc>https://example.com/funding/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/talks/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
