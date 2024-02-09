@@ -21,6 +21,12 @@ VR-III Hjarðarhagi 2, 107 Reykjavík
 
 <div style="clear: both;"></div>
 
+<img src="../images/elli_portrait.png"  
+     alt="Elli's portrait" 
+     style="width: 180px; height: 220px; float: left; margin-right: 20px;">
+
+<p style="margin-top: 40px;">
+
 ### Elli Inkeri Selenius   
 <span style="color: #cb5041; font-weight: bold;">Postdoc </span>    
 Science Institute of the University of Iceland      
