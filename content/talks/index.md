@@ -16,7 +16,7 @@ Speaker: <b>Gianluca Levi</b><br><br>
 Speaker: <b>Gianluca Levi</b><br><br>
 
 <li> <span style="color: #808080; font-weight: bold;"> Challenging electronic excitations calculated by converging on saddle points of the electronic energy surface </span><br>
-American Physical Society March meeting, Chicago (Mar 2024)</li>
+American Physical Society March meeting, Minneapolis (Mar 2024)</li>
 Speaker: <b>Gianluca Levi</b><br><br>
 
 <li> <span style="color: #808080; font-weight: bold;"> Simulating Solar Energy Conversion at the Atomic Scale Using the Icelandic High Performance Computing Cluster </span><br>

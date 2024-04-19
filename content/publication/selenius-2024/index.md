@@ -8,8 +8,9 @@ authors:
 - Gianluca Levi
 date: '2024-01-01'
 publishDate: '2024-02-02T14:14:57.334688Z'
-publication_types: ["article"]
-publication: '*Submitted to Journal of Chemical Theory and Computation*'
+publication_types:
+- article-journal
+publication: '*Journal of Chemical Theory and Computation (accepted)*'
 doi: 10.48550/arXiv.2311.01604
 abstract: A strategy is presented for variational orbital optimization in time-independent
   calculations of excited electronic states. The approach involves minimizing the

@@ -53,7 +53,7 @@ publishDate: '2024-02-02T14:14:57.347699Z'
 publication_types:
 - article-journal
 publication: '*Journal of Chemical Physics*'
-doi: 10.48550/arXiv.2310.14776
+doi: 10.1063/5.0182685
 abstract: We review the GPAW open-source Python package for electronic structure calculations.
   GPAW is based on the projector-augmented wave method and can solve the self-consistent
   density functional theory (DFT) equations using three different wave-function representations,
@@ -77,5 +77,5 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2310.14776
 - name: URL
-  url: http://arxiv.org/abs/2310.14776
+  url: https://doi.org/10.1063/5.0182685
 ---

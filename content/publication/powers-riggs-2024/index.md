@@ -27,6 +27,7 @@ date: '2024-01-01'
 publishDate: '2024-02-02T14:14:57.342234Z'
 publication_types: ["article"]
 publication: '*Submitted to Journal of the American Chemical Society*'
+doi: '{10.26434/chemrxiv-2024-xcdr8'
 abstract: Dimeric complexes composed of d8 square planar metal centers and rigid bridg-
   ing ligands provide model systems to understand the interplay between attractive
   dispersion forces and steric strain, in order to assist the development reliable
@@ -47,4 +48,9 @@ abstract: Dimeric complexes composed of d8 square planar metal centers and rigid
   Our study shows that reproduction of the primary experimental observations requires
   a hybrid functional, which includes exact exchange, while also accounting for dispersion
   interactions.
+links:
+- name: arXiv
+  url: https://chemrxiv.org/engage/chemrxiv/article-details/66024ff366c1381729d24d15
+- name: URL
+  url: https://chemrxiv.org/engage/chemrxiv/article-details/66024ff366c1381729d24d15
 ---
