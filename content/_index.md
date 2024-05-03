@@ -8,15 +8,15 @@ sections:
   - block: hero
     content:
       title: |
-        Electronic Excitations and Molecular Dynamics 
+        <span style="font-size: 36px;"> Electronic Excitations and Molecular Dynamics </span> 
       text: |        
-        Research group at the Science Institute and Faculty of Physical Sciences of the University of Iceland. 
+        <span style="font-size: 24px;"> Research group at the Science Institute and Faculty of Physical Sciences of the University of Iceland.</span> 
         
-        We develop and apply novel computational methods based on density functional theory to model electronic 
+        <span style="font-size: 20px;"> We develop and apply novel computational methods based on density functional theory to model electronic 
         excitations in molecular and condensed-phase systems. The applications focus on photoactive 
         organic and transition metal compounds for solar energy conversion and photocatalysis. Using atomic-scale 
         simulations of light-driven chemical dynamics, our goal is to bridge underlying mechanisms with direct observations 
-        from ultrafast experiments conducted at synchrotrons and X-ray free electron lasers.
+        from ultrafast experiments conducted at synchrotrons and X-ray free electron lasers. </span> 
       image:
         filename: molecular_movie_cropped-low_res.gif
 # News Block 
