@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>saddle point searches | Gianluca Levi&#39;s research webpage</title>
+    <link>https://example.com/tag/saddle-point-searches/</link>
+      <atom:link href="https://example.com/tag/saddle-point-searches/index.xml" rel="self" type="application/rss+xml" />
+    <description>saddle point searches</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hud6209fa0764823b87d5ea48ec267c043_175783_512x512_fill_lanczos_center_3.png</url>
+      <title>saddle point searches</title>
+      <link>https://example.com/tag/saddle-point-searches/</link>
+    </image>
+    
+    <item>
+      <title>Saddle Point Search Algorithms for Variational Density Functional Calculations of Excited Electronic States with Self-Interaction Correction</title>
+      <link>https://example.com/publication/schmerwitz-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/schmerwitz-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
