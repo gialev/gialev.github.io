@@ -269,7 +269,7 @@ VR-III Hjarðarhagi 2, 107 Reykjavík&lt;br&gt;
       <link>https://example.com/funding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/funding/</guid>
-      <description>&lt;h1 style=&#34;text-align: center;&#34;&gt; Funding &lt;/h1&gt;
+      <description>&lt;!-- &lt;h1 style=&#34;text-align: center;&#34;&gt; Funding &lt;/h1&gt; --&gt;
 &lt;head&gt;
     &lt;style&gt;
         /* Normal link style */
@@ -357,16 +357,18 @@ VR-III Hjarðarhagi 2, 107 Reykjavík&lt;br&gt;
     
     <item>
       <title></title>
-      <link>https://example.com/talks/</link>
+      <link>https://example.com/presentations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/talks/</guid>
-      <description>&lt;h1 style=&#34;text-align: center;&#34;&gt; Talks &lt;/h1&gt;
-&lt;br&gt;
+      <guid>https://example.com/presentations/</guid>
+      <description>&lt;!-- &lt;h1 style=&#34;text-align: center;&#34;&gt; Talks &lt;/h1&gt; &lt;br&gt; --&gt;
 &lt;ol reversed&gt;
-&lt;li&gt; 
+&lt;li&gt; &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt; Saddle Point Search Algorithms for Variational Density Functional Calculations of Excited Electronic States with Self-Interaction Correction &lt;/span&gt;&lt;br&gt;
+Platform for Advanced Scientific Computing (PASC &#39;24), Zurich (June 2024)&lt;/li&gt;
+Speaker: &lt;b&gt;Yorick Leonard A. Schmerwitz&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;li&gt; &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt; Towards imaging the photoinduced dynamics of solvated organic molecules with ultrafast X-ray scattering  &lt;/span&gt;&lt;br&gt;
 DanScatt XFEL workshop, University of Aarhus (May 2024)&lt;/li&gt;
 Speaker: &lt;b&gt;Gianluca Levi&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-&lt;li&gt; 
+&lt;li&gt; &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt; Calculating Challenging Electronic Excitations in Molecules and Solids by Converging on Saddle Points of the Electronic Energy Surface &lt;/span&gt;&lt;br&gt;
 20th ETSF Young Researchers’ Meeting, Université Paul Sabatier, Toulouse (May 2024)&lt;/li&gt;
 Speaker: &lt;b&gt;Gianluca Levi&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 &lt;li&gt; &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt; Challenging electronic excitations calculated by converging on saddle points of the electronic energy surface &lt;/span&gt;&lt;br&gt;
@@ -385,6 +387,9 @@ Speaker: &lt;b&gt;Elli Inkeri Selenius &lt;/b&gt;&lt;br&gt;&lt;br&gt;
 &lt;li&gt;  &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt; Calculations of excited electronic states using saddle point search algorithms &lt;/span&gt;&lt;br&gt;
 19th ETSF Young Researchers’ Meeting, Universidad de Zaragoza (Jun 2023)&lt;/li&gt;
 Speaker: &lt;b&gt;Yorick Leonard A. Schmerwitz &lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;li&gt;  &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt; Density functional calculations of excited states with orbital optimization using saddle point search methods &lt;/span&gt;&lt;br&gt;
+Workshop on Emerging Excited State Methods in Electronic Structure Methods, Toulouse (Apr 2023)&lt;/li&gt;    
+Speaker: &lt;b&gt;Gianluca Levi&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 &lt;li&gt; &lt;span style=&#34;color: #808080; font-weight: bold;&#34;&gt;New strategies for density functional calculations of excited states and application to ultrafast photorectaions in solution&lt;/span&gt;&lt;br&gt;
 Seminar for Laboratoire de Chimie et Physique Quantiques (LCPQ), Université Paul Sabatier, Toulouse (Jan 2023)&lt;/li&gt;
 Speaker: &lt;b&gt;Gianluca Levi&lt;/b&gt;&lt;br&gt;&lt;br&gt;

@@ -2,7 +2,7 @@
 title:
 ---
 
-<h1 style="text-align: center;"> Funding </h1>
+<!-- <h1 style="text-align: center;"> Funding </h1> -->
 
 <head>
     <style>

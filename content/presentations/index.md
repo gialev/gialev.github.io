@@ -2,16 +2,19 @@
 title:
 ---
 
-<h1 style="text-align: center;"> Talks </h1>
-<br>
+<!-- <h1 style="text-align: center;"> Talks </h1> <br> -->
 
 <ol reversed>
 
-<li> 
+<li> <span style="color: #808080; font-weight: bold;"> Saddle Point Search Algorithms for Variational Density Functional Calculations of Excited Electronic States with Self-Interaction Correction </span><br>
+Platform for Advanced Scientific Computing (PASC '24), Zurich (June 2024)</li>
+Speaker: <b>Yorick Leonard A. Schmerwitz</b><br><br>
+
+<li> <span style="color: #808080; font-weight: bold;"> Towards imaging the photoinduced dynamics of solvated organic molecules with ultrafast X-ray scattering  </span><br>
 DanScatt XFEL workshop, University of Aarhus (May 2024)</li>
 Speaker: <b>Gianluca Levi</b><br><br>
 
-<li> 
+<li> <span style="color: #808080; font-weight: bold;"> Calculating Challenging Electronic Excitations in Molecules and Solids by Converging on Saddle Points of the Electronic Energy Surface </span><br>
 20th ETSF Young Researchers’ Meeting, Université Paul Sabatier, Toulouse (May 2024)</li>
 Speaker: <b>Gianluca Levi</b><br><br>
 
@@ -35,6 +38,10 @@ Speaker: <b>Elli Inkeri Selenius </b><br><br>
 <li>  <span style="color: #808080; font-weight: bold;"> Calculations of excited electronic states using saddle point search algorithms </span><br>
 19th ETSF Young Researchers’ Meeting, Universidad de Zaragoza (Jun 2023)</li>
 Speaker: <b>Yorick Leonard A. Schmerwitz </b><br><br>
+
+<li>  <span style="color: #808080; font-weight: bold;"> Density functional calculations of excited states with orbital optimization using saddle point search methods </span><br>
+Workshop on Emerging Excited State Methods in Electronic Structure Methods, Toulouse (Apr 2023)</li>    
+Speaker: <b>Gianluca Levi</b><br><br>
 
 <li> <span style="color: #808080; font-weight: bold;">New strategies for density functional calculations of excited states and application to ultrafast photorectaions in solution</span><br>
 Seminar for Laboratoire de Chimie et Physique Quantiques (LCPQ), Université Paul Sabatier, Toulouse (Jan 2023)</li>
