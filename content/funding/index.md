@@ -50,21 +50,21 @@ Elli Inkeri Selenius <br>
 <a href="https://sjodir.rannis.is/gagnatorg/app_details.php?id=7751&fund=15&eid=6713"> 
 Energy Transfer in Semiconductor Quantum Dots Studied Using Nonadiabatic Dynamics and Reaction Path Calculations</a> <br>  
 2021 - 2024 <br>  
-<b>IRF Doctoral student Grant</b> <br> 
+<b>Doctoral student Grant, Icelandic Research Fund</b> <br> 
 Yorick Leonard A. Schmerwitz <br>     
 <br>
 
 <a href="https://sjodir.rannis.is/gagnatorg/app_details.php?id=7014&fund=15&eid=9816"> 
 Exploring the Reaction Paths of Solvated Iron Photosensitizers: a Multiscale Nudged Elastic Band Strategy</a> <br>  
 2020 - 2023  <br>  
-<b>IRF Doctoral student Grant</b> <br> 
+<b>Doctoral student Grant, Icelandic Research Fund</b> <br> 
 Benedikt Orri Birgisson <br>     
 <br>
 
 <a href="https://sjodir.rannis.is/gagnatorg/app_details.php?id=6070&fund=14&eid=11178"> 
 Electron-Nuclear Dynamics in Iron-Sensitized Solar Cells: A Unified Model Description from Light Absorption to Charge Separation</a> <br>  
 2019 - 2022 <br>  
-<b>IRF Postdoctoral Fellowship Grant</b> <br> 
+<b>Postdoctoral Fellowship Grant, Icelandic Research Fund</b> <br> 
 Gianluca Levi <br>     
 <br>
 
