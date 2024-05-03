@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: April 19, 2024 --><html lang="en-us" >
+<!-- Last Published: May 3, 2024 --><html lang="en-us" >
 
 
 <head>
@@ -265,7 +265,7 @@
 
   
 
-<meta name="description" content="The performance of time-independent, orbital optimized calculations of excited states is assessed with respect to charge transfer excitations in organic molecules in comparison to the linear-response time-dependent density functional theory (TD-DFT) approach. A direct optimization method to converge on saddle points of the electronic energy surface is used to carry out calculations with the local density approximation (LDA) and the generalized gradient approximation (GGA) functionals PBE and BLYP for a set of 27 excitations in 15 molecules. The time-independent approach is fully variational and provides a relaxed excited state electron density from which the extent of charge transfer is quantified. The TD-DFT calculations are generally found to provide larger charge transfer distances compared to the orbital optimized calculations, even when including first-order orbital relaxation effects with the Z-vector method. While the error on the excitation energy relative to theoretical best estimates is found to increase with the extent of charge transfer up to ca. −2 eV for TD-DFT, no correlation is observed for the orbital optimized approach. The orbital optimized calculations with the LDA and the GGA functionals provide a mean absolute error of ∼0.7 eV, outperforming TD-DFT with both local and global hybrid functionals for excitations with long-range charge transfer character. Orbital optimized calculations with the global hybrid functional B3LYP and the range-separated hybrid functional CAM-B3LYP on a selection of states with short- and long-range charge transfer indicate that inclusion of exact exchange has a small effect on the charge transfer distance, while it significantly improves the excitation energy, with the best performing functional CAM-B3LYP providing an absolute error typically around 0.15 eV." />
+<meta name="description" content="A strategy is presented for variational orbital optimization in time-independent calculations of excited electronic states. The approach involves minimizing the energy while constraining the degrees of freedom corresponding to negative curvature on the electronic energy surface, followed by fully unconstrained optimization, thereby converging on a saddle point. Both steps of this freeze-and-release strategy are carried out via direct orbital optimization at a similar cost as ground state calculations. The approach is applied in orbital optimized density functional calculations and is shown to converge intramolecular charge transfer excited states where the common maximum overlap method is unable to prevent collapse to unphysical, charge-delocalized solutions. The constrained minimization can also be used to improve the estimate of the saddle point order of the target excited state solution, which is required as input for generalized mode following methods. Calculations with the local density approximation and the generalized gradient approximation functionals PBE and BLYP are carried out for a large set of charge transfer excitations in organic molecules using both direct optimization as well as the linear-response time-dependent density functional theory (TD-DFT) method. The time-independent approach is fully variational and provides a relaxed excited state electron density that can be used to quantify the extent of charge transfer. The TD-DFT calculations are found to generally overestimate the charge transfer distance compared to the orbital optimized calculations, even when the TD-DFT relaxed density is used. Furthermore, the orbital optimized calculations yield more accurate excitation energy values relative to the theoretical best estimates for the medium and long-range charge transfer distances, where the errors of TD-DFT are as large as 2 eV." />
 
 
 
@@ -313,13 +313,13 @@
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Gianluca Levi&#39;s research webpage" />
 <meta property="og:url" content="https://example.com/publication/selenius-2024/" />
-<meta property="og:title" content="Orbital optimized vs time-dependent density functional calculations of intramolecular charge transfer excited states | Gianluca Levi&#39;s research webpage" />
-<meta property="og:description" content="The performance of time-independent, orbital optimized calculations of excited states is assessed with respect to charge transfer excitations in organic molecules in comparison to the linear-response time-dependent density functional theory (TD-DFT) approach. A direct optimization method to converge on saddle points of the electronic energy surface is used to carry out calculations with the local density approximation (LDA) and the generalized gradient approximation (GGA) functionals PBE and BLYP for a set of 27 excitations in 15 molecules. The time-independent approach is fully variational and provides a relaxed excited state electron density from which the extent of charge transfer is quantified. The TD-DFT calculations are generally found to provide larger charge transfer distances compared to the orbital optimized calculations, even when including first-order orbital relaxation effects with the Z-vector method. While the error on the excitation energy relative to theoretical best estimates is found to increase with the extent of charge transfer up to ca. −2 eV for TD-DFT, no correlation is observed for the orbital optimized approach. The orbital optimized calculations with the LDA and the GGA functionals provide a mean absolute error of ∼0.7 eV, outperforming TD-DFT with both local and global hybrid functionals for excitations with long-range charge transfer character. Orbital optimized calculations with the global hybrid functional B3LYP and the range-separated hybrid functional CAM-B3LYP on a selection of states with short- and long-range charge transfer indicate that inclusion of exact exchange has a small effect on the charge transfer distance, while it significantly improves the excitation energy, with the best performing functional CAM-B3LYP providing an absolute error typically around 0.15 eV." /><meta property="og:image" content="https://example.com/media/icon_hud6209fa0764823b87d5ea48ec267c043_175783_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:title" content="Orbital-Optimized Versus Time-Dependent Density Functional Calculations of Intramolecular Charge Transfer Excited States | Gianluca Levi&#39;s research webpage" />
+<meta property="og:description" content="A strategy is presented for variational orbital optimization in time-independent calculations of excited electronic states. The approach involves minimizing the energy while constraining the degrees of freedom corresponding to negative curvature on the electronic energy surface, followed by fully unconstrained optimization, thereby converging on a saddle point. Both steps of this freeze-and-release strategy are carried out via direct orbital optimization at a similar cost as ground state calculations. The approach is applied in orbital optimized density functional calculations and is shown to converge intramolecular charge transfer excited states where the common maximum overlap method is unable to prevent collapse to unphysical, charge-delocalized solutions. The constrained minimization can also be used to improve the estimate of the saddle point order of the target excited state solution, which is required as input for generalized mode following methods. Calculations with the local density approximation and the generalized gradient approximation functionals PBE and BLYP are carried out for a large set of charge transfer excitations in organic molecules using both direct optimization as well as the linear-response time-dependent density functional theory (TD-DFT) method. The time-independent approach is fully variational and provides a relaxed excited state electron density that can be used to quantify the extent of charge transfer. The TD-DFT calculations are found to generally overestimate the charge transfer distance compared to the orbital optimized calculations, even when the TD-DFT relaxed density is used. Furthermore, the orbital optimized calculations yield more accurate excitation energy values relative to the theoretical best estimates for the medium and long-range charge transfer distances, where the errors of TD-DFT are as large as 2 eV." /><meta property="og:image" content="https://example.com/media/icon_hud6209fa0764823b87d5ea48ec267c043_175783_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2024-02-02T14:14:57&#43;00:00"
+      content="2024-05-03T19:18:41&#43;00:00"
     />
   
   
@@ -349,9 +349,9 @@
     "@type": "WebPage",
     "@id": "https://example.com/publication/selenius-2024/"
   },
-  "headline": "Orbital optimized vs time-dependent density functional calculations of intramolecular charge transfer excited states",
+  "headline": "Orbital-Optimized Versus Time-Dependent Density Functional Calculations of Intramolecular Charge Transfer Excited States",
   
-  "datePublished": "2024-02-02T14:14:57Z",
+  "datePublished": "2024-05-03T19:18:41Z",
   "dateModified": "2024-01-01T00:00:00Z",
   
   "author": {
@@ -367,7 +367,7 @@
       "url": "https://example.com/media/icon_hud6209fa0764823b87d5ea48ec267c043_175783_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "The performance of time-independent, orbital optimized calculations of excited states is assessed with respect to charge transfer excitations in organic molecules in comparison to the linear-response time-dependent density functional theory (TD-DFT) approach. A direct optimization method to converge on saddle points of the electronic energy surface is used to carry out calculations with the local density approximation (LDA) and the generalized gradient approximation (GGA) functionals PBE and BLYP for a set of 27 excitations in 15 molecules. The time-independent approach is fully variational and provides a relaxed excited state electron density from which the extent of charge transfer is quantified. The TD-DFT calculations are generally found to provide larger charge transfer distances compared to the orbital optimized calculations, even when including first-order orbital relaxation effects with the Z-vector method. While the error on the excitation energy relative to theoretical best estimates is found to increase with the extent of charge transfer up to ca. −2 eV for TD-DFT, no correlation is observed for the orbital optimized approach. The orbital optimized calculations with the LDA and the GGA functionals provide a mean absolute error of ∼0.7 eV, outperforming TD-DFT with both local and global hybrid functionals for excitations with long-range charge transfer character. Orbital optimized calculations with the global hybrid functional B3LYP and the range-separated hybrid functional CAM-B3LYP on a selection of states with short- and long-range charge transfer indicate that inclusion of exact exchange has a small effect on the charge transfer distance, while it significantly improves the excitation energy, with the best performing functional CAM-B3LYP providing an absolute error typically around 0.15 eV."
+  "description": "A strategy is presented for variational orbital optimization in time-independent calculations of excited electronic states. The approach involves minimizing the energy while constraining the degrees of freedom corresponding to negative curvature on the electronic energy surface, followed by fully unconstrained optimization, thereby converging on a saddle point. Both steps of this freeze-and-release strategy are carried out via direct orbital optimization at a similar cost as ground state calculations. The approach is applied in orbital optimized density functional calculations and is shown to converge intramolecular charge transfer excited states where the common maximum overlap method is unable to prevent collapse to unphysical, charge-delocalized solutions. The constrained minimization can also be used to improve the estimate of the saddle point order of the target excited state solution, which is required as input for generalized mode following methods. Calculations with the local density approximation and the generalized gradient approximation functionals PBE and BLYP are carried out for a large set of charge transfer excitations in organic molecules using both direct optimization as well as the linear-response time-dependent density functional theory (TD-DFT) method. The time-independent approach is fully variational and provides a relaxed excited state electron density that can be used to quantify the extent of charge transfer. The TD-DFT calculations are found to generally overestimate the charge transfer distance compared to the orbital optimized calculations, even when the TD-DFT relaxed density is used. Furthermore, the orbital optimized calculations yield more accurate excitation energy values relative to the theoretical best estimates for the medium and long-range charge transfer distances, where the errors of TD-DFT are as large as 2 eV."
 }
 </script>
 
@@ -389,7 +389,7 @@
 
 
   
-  <title>Orbital optimized vs time-dependent density functional calculations of intramolecular charge transfer excited states | Gianluca Levi&#39;s research webpage</title>
+  <title>Orbital-Optimized Versus Time-Dependent Density Functional Calculations of Intramolecular Charge Transfer Excited States | Gianluca Levi&#39;s research webpage</title>
 
   
   
@@ -742,7 +742,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Orbital optimized vs time-dependent density functional calculations of intramolecular charge transfer excited states</h1>
+  <h1>Orbital-Optimized Versus Time-Dependent Density Functional Calculations of Intramolecular Charge Transfer Excited States</h1>
 
   
 
@@ -831,7 +831,7 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.48550/arXiv.2311.01604" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1021/acs.jctc.3c01319" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -861,7 +861,7 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header" href="http://arxiv.org/abs/2311.01604" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1021/acs.jctc.3c01319" target="_blank" rel="noopener">
     URL</a>
 
 
@@ -877,7 +877,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">The performance of time-independent, orbital optimized calculations of excited states is assessed with respect to charge transfer excitations in organic molecules in comparison to the linear-response time-dependent density functional theory (TD-DFT) approach. A direct optimization method to converge on saddle points of the electronic energy surface is used to carry out calculations with the local density approximation (LDA) and the generalized gradient approximation (GGA) functionals PBE and BLYP for a set of 27 excitations in 15 molecules. The time-independent approach is fully variational and provides a relaxed excited state electron density from which the extent of charge transfer is quantified. The TD-DFT calculations are generally found to provide larger charge transfer distances compared to the orbital optimized calculations, even when including first-order orbital relaxation effects with the Z-vector method. While the error on the excitation energy relative to theoretical best estimates is found to increase with the extent of charge transfer up to ca. −2 eV for TD-DFT, no correlation is observed for the orbital optimized approach. The orbital optimized calculations with the LDA and the GGA functionals provide a mean absolute error of ∼0.7 eV, outperforming TD-DFT with both local and global hybrid functionals for excitations with long-range charge transfer character. Orbital optimized calculations with the global hybrid functional B3LYP and the range-separated hybrid functional CAM-B3LYP on a selection of states with short- and long-range charge transfer indicate that inclusion of exact exchange has a small effect on the charge transfer distance, while it significantly improves the excitation energy, with the best performing functional CAM-B3LYP providing an absolute error typically around 0.15 eV.</p>
+    <p class="pub-abstract">A strategy is presented for variational orbital optimization in time-independent calculations of excited electronic states. The approach involves minimizing the energy while constraining the degrees of freedom corresponding to negative curvature on the electronic energy surface, followed by fully unconstrained optimization, thereby converging on a saddle point. Both steps of this freeze-and-release strategy are carried out via direct orbital optimization at a similar cost as ground state calculations. The approach is applied in orbital optimized density functional calculations and is shown to converge intramolecular charge transfer excited states where the common maximum overlap method is unable to prevent collapse to unphysical, charge-delocalized solutions. The constrained minimization can also be used to improve the estimate of the saddle point order of the target excited state solution, which is required as input for generalized mode following methods. Calculations with the local density approximation and the generalized gradient approximation functionals PBE and BLYP are carried out for a large set of charge transfer excitations in organic molecules using both direct optimization as well as the linear-response time-dependent density functional theory (TD-DFT) method. The time-independent approach is fully variational and provides a relaxed excited state electron density that can be used to quantify the extent of charge transfer. The TD-DFT calculations are found to generally overestimate the charge transfer distance compared to the orbital optimized calculations, even when the TD-DFT relaxed density is used. Furthermore, the orbital optimized calculations yield more accurate excitation energy values relative to the theoretical best estimates for the medium and long-range charge transfer distances, where the errors of TD-DFT are as large as 2 eV.</p>
     
 
     
@@ -905,7 +905,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>Journal of Chemical Theory and Computation (accepted)</em></div>
+          <div class="col-12 col-md-9"><em>Journal of Chemical Theory and Computation</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -940,7 +940,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fpublication%2Fselenius-2024%2F&amp;text=Orbital&#43;optimized&#43;vs&#43;time-dependent&#43;density&#43;functional&#43;calculations&#43;of&#43;intramolecular&#43;charge&#43;transfer&#43;excited&#43;states" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fpublication%2Fselenius-2024%2F&amp;text=Orbital-Optimized&#43;Versus&#43;Time-Dependent&#43;Density&#43;Functional&#43;Calculations&#43;of&#43;Intramolecular&#43;Charge&#43;Transfer&#43;Excited&#43;States" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -957,7 +957,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fpublication%2Fselenius-2024%2F&amp;t=Orbital&#43;optimized&#43;vs&#43;time-dependent&#43;density&#43;functional&#43;calculations&#43;of&#43;intramolecular&#43;charge&#43;transfer&#43;excited&#43;states" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fpublication%2Fselenius-2024%2F&amp;t=Orbital-Optimized&#43;Versus&#43;Time-Dependent&#43;Density&#43;Functional&#43;Calculations&#43;of&#43;Intramolecular&#43;Charge&#43;Transfer&#43;Excited&#43;States" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -976,7 +976,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Orbital%20optimized%20vs%20time-dependent%20density%20functional%20calculations%20of%20intramolecular%20charge%20transfer%20excited%20states&amp;body=https%3A%2F%2Fexample.com%2Fpublication%2Fselenius-2024%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Orbital-Optimized%20Versus%20Time-Dependent%20Density%20Functional%20Calculations%20of%20Intramolecular%20Charge%20Transfer%20Excited%20States&amp;body=https%3A%2F%2Fexample.com%2Fpublication%2Fselenius-2024%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -993,7 +993,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fpublication%2Fselenius-2024%2F&amp;title=Orbital&#43;optimized&#43;vs&#43;time-dependent&#43;density&#43;functional&#43;calculations&#43;of&#43;intramolecular&#43;charge&#43;transfer&#43;excited&#43;states" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fpublication%2Fselenius-2024%2F&amp;title=Orbital-Optimized&#43;Versus&#43;Time-Dependent&#43;Density&#43;Functional&#43;Calculations&#43;of&#43;Intramolecular&#43;Charge&#43;Transfer&#43;Excited&#43;States" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1010,7 +1010,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Orbital&#43;optimized&#43;vs&#43;time-dependent&#43;density&#43;functional&#43;calculations&#43;of&#43;intramolecular&#43;charge&#43;transfer&#43;excited&#43;states%20https%3A%2F%2Fexample.com%2Fpublication%2Fselenius-2024%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Orbital-Optimized&#43;Versus&#43;Time-Dependent&#43;Density&#43;Functional&#43;Calculations&#43;of&#43;Intramolecular&#43;Charge&#43;Transfer&#43;Excited&#43;States%20https%3A%2F%2Fexample.com%2Fpublication%2Fselenius-2024%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1027,7 +1027,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fpublication%2Fselenius-2024%2F&amp;title=Orbital&#43;optimized&#43;vs&#43;time-dependent&#43;density&#43;functional&#43;calculations&#43;of&#43;intramolecular&#43;charge&#43;transfer&#43;excited&#43;states" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fpublication%2Fselenius-2024%2F&amp;title=Orbital-Optimized&#43;Versus&#43;Time-Dependent&#43;Density&#43;Functional&#43;Calculations&#43;of&#43;Intramolecular&#43;Charge&#43;Transfer&#43;Excited&#43;States" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
