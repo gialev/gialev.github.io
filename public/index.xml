@@ -300,28 +300,41 @@ VR-III Hjarðarhagi 2, 107 Reykjavík&lt;br&gt;
         }
     &lt;/style&gt;
 &lt;/head&gt;
+&lt;p&gt;&lt;a href=&#34;https://sjodir.rannis.is/gagnatorg/app_details.php?id=7734&amp;fund=13&amp;eid=6716&#34;&gt; CNERGY: Ultrafast Charge and Energy Transfer in Sunlight Conversion&lt;/a&gt; &lt;br&gt;
+2021 - 2024 &lt;br&gt;
+&lt;b&gt;Project Grant, Icelandic Research Fund&lt;/b&gt; &lt;br&gt;
+Gianluca Levi&lt;/p&gt;
+&lt;a href=&#34;https://sjodir.rannis.is/gagnatorg/app_details.php?id=9678&amp;fund=5&amp;eid=1759&#34;&gt; 
+Efficient molecular photoswitches identified using simulations of ultrafast charge transfer and solvation dynamics &lt;/a&gt; &lt;br&gt;
+2023 - 2026 &lt;br&gt;  
+&lt;b&gt;Postdoctoral Fellowship Grant, Icelandic Research Fund&lt;/b&gt; &lt;br&gt; 
+Elli Inkeri Selenius &lt;br&gt;     
+&lt;br&gt;
+&lt;a href=&#34;https://sjodir.rannis.is/gagnatorg/app_details.php?id=7751&amp;fund=15&amp;eid=6713&#34;&gt; 
+Energy Transfer in Semiconductor Quantum Dots Studied Using Nonadiabatic Dynamics and Reaction Path Calculations&lt;/a&gt; &lt;br&gt;  
+2021 - 2024 &lt;br&gt;  
+&lt;b&gt;IRF Doctoral student Grant&lt;/b&gt; &lt;br&gt; 
+Yorick Leonard A. Schmerwitz &lt;br&gt;     
+&lt;br&gt;
+&lt;a href=&#34;https://sjodir.rannis.is/gagnatorg/app_details.php?id=7014&amp;fund=15&amp;eid=9816&#34;&gt; 
+Exploring the Reaction Paths of Solvated Iron Photosensitizers: a Multiscale Nudged Elastic Band Strategy&lt;/a&gt; &lt;br&gt;  
+2020 - 2023  &lt;br&gt;  
+&lt;b&gt;IRF Doctoral student Grant&lt;/b&gt; &lt;br&gt; 
+Benedikt Orri Birgisson &lt;br&gt;     
+&lt;br&gt;
+&lt;a href=&#34;https://sjodir.rannis.is/gagnatorg/app_details.php?id=6070&amp;fund=14&amp;eid=11178&#34;&gt; 
+Electron-Nuclear Dynamics in Iron-Sensitized Solar Cells: A Unified Model Description from Light Absorption to Charge Separation&lt;/a&gt; &lt;br&gt;  
+2019 - 2022 &lt;br&gt;  
+&lt;b&gt;IRF Postdoctoral Fellowship Grant&lt;/b&gt; &lt;br&gt; 
+Gianluca Levi &lt;br&gt;     
+&lt;br&gt;
 &lt;body&gt;
 &lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt; &lt;img src=&#34;../images/irf_logo.png&#34; alt=&#34;IRF logo&#34; style=&#34;width: 285px; height: 195px;&#34;&gt;
-         &lt;span style=&#34;color: #cb5041; font-weight: bold;&#34;&gt;CNERGY&lt;/span&gt;:
-         &lt;a href=&#34;https://sjodir.rannis.is/gagnatorg/app_details.php?id=7734&amp;fund=13&amp;eid=6716&#34;&gt; 
-         Ultrafast Charge and Energy Transfer in Sunlight Conversion&lt;/a&gt; &lt;br&gt; 
-         &lt;br&gt;  
-         2021 - 2024 &lt;br&gt;  
-         &lt;b&gt;IRF Project Grant&lt;/b&gt; &lt;br&gt; 
-         Gianluca Levi
-    &lt;/td&gt;
-    &lt;td&gt; &lt;img src=&#34;../images/irf_logo.png&#34; alt=&#34;IRF logo&#34; style=&#34;width: 285px; height: 195px;&#34;&gt; 
-         &lt;a href=&#34;https://sjodir.rannis.is/gagnatorg/app_details.php?id=9678&amp;fund=5&amp;eid=1759&#34;&gt; 
-         Efficient molecular photoswitches identified using simulations of ultrafast charge transfer and solvation dynamics &lt;/a&gt; &lt;br&gt;
-         &lt;br&gt;
-         2023 - 2026 &lt;br&gt;  
-         &lt;b&gt;IRF Postdoctoral Fellowship Grant&lt;/b&gt; &lt;br&gt; 
-         Elli Inkeri Selenius
     &lt;/td&gt;
   &lt;/tr&gt;
-  &lt;tr&gt;
+&lt;!--  &lt;tr&gt;
     &lt;td&gt; &lt;img src=&#34;../images/irf_logo.png&#34; alt=&#34;IRF logo&#34; style=&#34;width: 285px; height: 195px;&#34;&gt;
          &lt;span style=&#34;color: #cb5041; font-weight: bold;&#34;&gt;EQuanDo&lt;/span&gt;:
          &lt;a href=&#34;https://sjodir.rannis.is/gagnatorg/app_details.php?id=7751&amp;fund=15&amp;eid=6713&#34;&gt; 
@@ -348,8 +361,8 @@ VR-III Hjarðarhagi 2, 107 Reykjavík&lt;br&gt;
          2019 - 2022 &lt;br&gt;  
          &lt;b&gt;IRF Postdoctoral Fellowship Grant&lt;/b&gt; &lt;br&gt; 
          Gianluca Levi
-    &lt;/td&gt;
-  &lt;/tr&gt;
+    &lt;/td&gt; 
+  &lt;/tr&gt; --&gt;
 &lt;/table&gt;
 &lt;/body&gt;
 </description>
