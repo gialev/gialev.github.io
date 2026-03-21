@@ -5,7 +5,7 @@ theme = "beautifulhugo"
 
 [Params]
   homeTitle = "Electronic Excitations and Molecular Dynamics"
-  subtitle = "Research group at the University of Iceland"
+#  subtitle = "Research group at the University of Iceland"
 
 [Params.author]
   name = "Gianluca Levi"
