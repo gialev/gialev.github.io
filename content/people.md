@@ -1,8 +1,6 @@
 ---
-title: "People"
+title: "Group Members"
 ---
-
-<h1 style="text-align: center;"> Group Members </h1>
 
 <img src="../images/gianluca_portrait.png"  
      alt="Gianluca's portrait" 
