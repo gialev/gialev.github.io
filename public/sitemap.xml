@@ -6,9 +6,9 @@
   </url><url>
     <loc>http://localhost:1313/funding/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-  </url><url>
     <loc>http://localhost:1313/people/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/publications/</loc>
   </url><url>
