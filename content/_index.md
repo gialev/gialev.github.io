@@ -3,12 +3,16 @@ title: "Home"
 draft: false
 ---
 
-# Electronic Excitations and Molecular Dynamics
+We are a young and interdisciplinary research group driven by the interest in understanding light-induced electronic 
+excitations in molecules and materials, and the photoinduced dynamics behind solar energy conversion, from solar cells 
+to photosynthetic systems. Our goal is to connect fundamental mechanisms to direct experimental observations. To achieve 
+this, we combine the development and application of novel theoretical methods for excited states and multiscale molecular 
+dynamics simulations with ultrafast X-ray scattering experiments at synchrotrons and X-ray free electron lasers.
 
-Research group at the Science Institute and Faculty of Physical Sciences of the University of Iceland.
+We are part of:  
+[Department of Chemical and Pharmaceutical Sciences](https://dscf.units.it/en), University of Trieste   
+[Institute of Physical Sciences](https://scienceinstitute.hi.is/en), University of Iceland    
 
-We develop and apply novel computational methods based on density functional theory to model electronic excitations in molecular and condensed-phase systems.
-
-The applications focus on photoactive organic and transition metal compounds for solar energy conversion and photocatalysis. Using atomic-scale simulations of light-driven chemical dynamics, our goal is to bridge underlying mechanisms with direct observations from ultrafast experiments conducted at synchrotrons and X-ray free electron lasers.
-
-[Meet the team](/people/)
+<div class="center-button">
+  <a href="/people/" class="white-button">Meet the team</a>
+</div>

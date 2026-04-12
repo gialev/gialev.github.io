@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Gianluca Levi</title>
+    <title>Home on Levi Research Group</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Gianluca Levi</description>
+    <description>Recent content in Home on Levi Research Group</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <managingEditor>giale@hi.is (Gianluca Levi)</managingEditor>
-    <webMaster>giale@hi.is (Gianluca Levi)</webMaster>
+    <managingEditor>giale@hi.is (Levi Research Group)</managingEditor>
+    <webMaster>giale@hi.is (Levi Research Group)</webMaster>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Funding</title>
       <link>http://localhost:1313/funding/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>giale@hi.is (Gianluca Levi)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>giale@hi.is (Levi Research Group)</author>
       <guid>http://localhost:1313/funding/</guid>
       <description>&lt;!-- &lt;h1 style=&#34;text-align: center;&#34;&gt; Funding &lt;/h1&gt; --&gt;&#xA;&lt;head&gt;&#xA;    &lt;style&gt;&#xA;        /* Normal link style */&#xA;        a {&#xA;            color: black; /* Set the default color of the link */&#xA;            text-decoration: none; /* Remove underline, if you want */&#xA;        }&#xA;        /* Style for the link when hovered over */&#xA;        a:hover {&#xA;            color: #105fbd; /* Set the color to blue on hover */&#xA;            text-decoration: underline; /* Add underline on hover */&#xA;        }&#xA;        table {&#xA;            border-collapse: collapse;&#xA;            width: 100%;&#xA;            border-top: none; /* Remove top border of the table */&#xA;        }&#xA;        td {&#xA;            padding: 10px;&#xA;            border: 1px solid transparent; /* Set border color to transparent */&#xA;            width: 50%; /* Set equal width for both columns */&#xA;        }&#xA;        img {&#xA;            max-width: 100%;&#xA;            height: auto;&#xA;            display: block;&#xA;            margin-bottom: 10px;&#xA;        }&#xA;    &lt;/style&gt;&#xA;&lt;/head&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://sjodir.rannis.is/gagnatorg/app_details.php?id=7734&amp;fund=13&amp;eid=6716&#34;&gt; CNERGY: Ultrafast Charge and Energy Transfer in Sunlight Conversion&lt;/a&gt; &lt;br&gt;&#xA;2021 - 2024 &lt;br&gt;&#xA;&lt;b&gt;Project Grant, Icelandic Research Fund&lt;/b&gt; &lt;br&gt;&#xA;Gianluca Levi&lt;/p&gt;</description>
     </item>
     <item>
       <title>Group Members</title>
       <link>http://localhost:1313/people/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>giale@hi.is (Gianluca Levi)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>giale@hi.is (Levi Research Group)</author>
       <guid>http://localhost:1313/people/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../images/gianluca_portrait.png&#34;  &#xA;alt=&#34;Gianluca&#39;s portrait&#34; &#xA;style=&#34;width: 180px; height: 195px; float: left; margin-right: 20px;&#34;&gt;&lt;/p&gt;&#xA;&lt;p style=&#34;margin-top: 55px;&#34;&gt;&#xA;&lt;h3 id=&#34;gianluca-levi&#34;&gt;Gianluca Levi&lt;/h3&gt;&#xA;&lt;p&gt;&lt;span style=&#34;color: #cb5041; font-weight: bold;&#34;&gt;Group leader &lt;/span&gt; &lt;br&gt;&#xA;Science Institute of the University of Iceland &lt;br&gt;&#xA;VR-III Hjarðarhagi 2, 107 Reykjavík&lt;br&gt;&#xA;&lt;a href=&#34;https://orcid.org/0000-0002-4542-0653&#34;&gt;ORCID&lt;/a&gt;   &lt;a href=&#34;https://www.webofscience.com/wos/author/record/GYQ-9226-2022&#34;&gt;Web of Science&lt;/a&gt;   &lt;a href=&#34;https://scholar.google.com/citations?user=HhElK98AAAAJ&amp;amp;hl=en&#34;&gt;Google Scholar&lt;/a&gt;   &lt;a href=&#34;../doc/cv_giale.pdf&#34;&gt;CV&lt;/a&gt;  &lt;br&gt;&#xA;+354 8326622, &lt;a href=&#34;mailto:giale@hi.is&#34;&gt;giale@hi.is&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/p&gt;&#xA;&lt;div style=&#34;clear: both;&#34;&gt;&lt;/div&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/elli_portrait.png&#34;  &#xA;alt=&#34;Elli&#39;s portrait&#34; &#xA;style=&#34;width: 180px; height: 220px; float: left; margin-right: 20px;&#34;&gt;&lt;/p&gt;&#xA;&lt;p style=&#34;margin-top: 40px;&#34;&gt;&#xA;&lt;h3 id=&#34;elli-inkeri-selenius&#34;&gt;Elli Inkeri Selenius&lt;/h3&gt;&#xA;&lt;p&gt;&lt;span style=&#34;color: #cb5041; font-weight: bold;&#34;&gt;Postdoc &lt;/span&gt; &lt;br&gt;&#xA;Science Institute of the University of Iceland   &lt;br&gt;&#xA;VR-III Hjarðarhagi 2, 107 Reykjavík&lt;br&gt;&#xA;&lt;a href=&#34;https://orcid.org/0000-0003-4286-0861&#34;&gt;ORCID&lt;/a&gt;   &lt;a href=&#34;https://www.webofscience.com/wos/author/record/DYK-2893-2022&#34;&gt;Web of Science&lt;/a&gt;   &lt;a href=&#34;https://scholar.google.com/citations?user=vxsoicEAAAAJ&amp;amp;hl=en&#34;&gt;Google Scholar&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;mailto:elliselenius@hi.is&#34;&gt;elliselenius@hi.is&lt;/a&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;clear: both;&#34;&gt;&lt;/div&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/yorick_portrait.png&#34;  &#xA;alt=&#34;Yorick&#39;s portrait&#34; &#xA;style=&#34;width: 180px; height: 220px; float: left; margin-right: 20px;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publications</title>
       <link>http://localhost:1313/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>giale@hi.is (Gianluca Levi)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>giale@hi.is (Levi Research Group)</author>
       <guid>http://localhost:1313/publications/</guid>
       <description>&lt;p&gt;&lt;strong&gt;2026&lt;/strong&gt;&lt;br&gt;&#xA;Levi, G.; Kroesbergen, M.; Thirion, L.; Schmerwitz, Y. L. A.; Jónsson, E. Ö.; Bilous, P.; Hansmann, P.; Jónsson, H. Orbital Optimization and Neural-Network-Assisted Configuration Interaction Calculations of Rydberg States. &lt;em&gt;J. Chem. Theory Comput.&lt;/em&gt; 2026. &lt;a href=&#34;https://doi.org/10.1021/acs.jctc.5c01837&#34;&gt;DOI:10.1021/acs.jctc.5c01837&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Schmerwitz, Y. L. A.; Selenius, E.; Levi, G. Freeze-and-Release Direct Optimization Method for Variational Calculations of Excited Electronic States. &lt;em&gt;J. Chem. Theory Comput.&lt;/em&gt; 2026. &lt;a href=&#34;https://doi.org/10.1021/acs.jctc.5c01974&#34;&gt;DOI:10.1021/acs.jctc.5c01974&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Haubro, M. L.; Zederkof, D. B.; Khakhulin, D.; Yousef, H.; Jiang, Y.; Bermudez, I. J.; Kluyver, T.; Lima, F.; Biednov, M.; Milne, C.; Uemura, Y.; Zalden, P.; Wang, H.; Dohn, A. O.; Mitterer, K.; Markmann, V.; Ohlson, O.; Wachter-Lehn, M. T.; Lenzen, P.; Jensen, B. K.; Høholdt, A.; van Driel, T. B.; Nimmrich, A.; Selenius, E.; Levi, G.; Møller, B.; Nielsen, M. M.; Haldrup, K. Analysis Strategies for Time-Resolved X-ray Solution Scattering at High Repetition Rate XFEL Sources. &lt;em&gt;J. Synchrotron Radiat.&lt;/em&gt; 2026, &lt;strong&gt;33&lt;/strong&gt;, 18–31. &lt;a href=&#34;https://doi.org/10.1107/S1600577525009737&#34;&gt;DOI:10.1107/S1600577525009737&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Talks and seminars</title>
       <link>http://localhost:1313/talks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>giale@hi.is (Gianluca Levi)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>giale@hi.is (Levi Research Group)</author>
       <guid>http://localhost:1313/talks/</guid>
       <description>&lt;p&gt;&lt;strong&gt;2026&lt;/strong&gt;  &lt;br&gt;&#xA;Orbital-Optimized Density Functional Calculations of Charge Transfer and Rydberg Excited States  &lt;br&gt;&#xA;Seminar, THEOR CHEM group, Leiden University (Feb)  &lt;br&gt;&#xA;Speaker: &lt;strong&gt;Gianluca Levi&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Orbital-Optimized Density Functional Calculations of Charge Transfer and Rydberg Excited States  &lt;br&gt;&#xA;Seminar, International Centre for Theoretical Physics (ICTP), Trieste (Feb)  &lt;br&gt;&#xA;Speaker: &lt;strong&gt;Gianluca Levi&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;2025&lt;/strong&gt;  &lt;br&gt;&#xA;Orbital-Optimized Density Functional Calculations of Charge Transfer and Rydberg Excited States  &lt;br&gt;&#xA;Seminar, Laboratoire de Chimie Quantique (LCQ), Strasbourg University (Dec)  &lt;br&gt;&#xA;Speaker: &lt;strong&gt;Gianluca Levi&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Orbital-Optimized Density Functional Calculations of Charge Transfer and Rydberg Excited States &lt;br&gt;&#xA;Seminar, Condensed Matter Seminar Series, Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste (Nov)      &lt;br&gt;&#xA;Speaker: &lt;strong&gt;Gianluca Levi&lt;/strong&gt;&lt;/p&gt;</description>
     </item>

@@ -1,17 +1,17 @@
 baseURL = "https://gialev.github.io/"
 languageCode = "en-us"
-title = "Gianluca Levi"
+title = "Levi Research Group"
 theme = "beautifulhugo"
 
 [Params]
-  homeTitle = "Electronic Excitations and Molecular Dynamics"
-#  subtitle = "Research group at the University of Iceland"
+  homeTitle = "Electronic Excitations and Photoinduced Molecular Dynamics"
+  subtitle = "Exploring light-driven processes from excited-state method development to ultrafast experiments"
 
 [[Params.bigimg]]
   src = "img/homepage_cover.png"
 
 [Params.author]
-  name = "Gianluca Levi"
+  name = "Levi Research Group"
   email = "giale@hi.is"
 
 [markup]
