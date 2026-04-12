@@ -4,6 +4,8 @@ url: "/publications/"
 ---
 
 **2026**  
+Barreiro-Lage, D.; Levi, G.; Jónsson, H.; Lamberts, T. Valence and Rydberg Excited State Bond Dissociation Curves of CO2 from Orbital-Optimized Density Functional Calculations. _arXiv_ 2026. [DOI:10.48550/arXiv.2604.05802](https://doi.org/10.48550/arXiv.2604.05802)
+
 Levi, G.; Kroesbergen, M.; Thirion, L.; Schmerwitz, Y. L. A.; Jónsson, E. Ö.; Bilous, P.; Hansmann, P.; Jónsson, H. Orbital Optimization and Neural-Network-Assisted Configuration Interaction Calculations of Rydberg States. _J. Chem. Theory Comput._ 2026. [DOI:10.1021/acs.jctc.5c01837](https://doi.org/10.1021/acs.jctc.5c01837)
 
 Schmerwitz, Y. L. A.; Selenius, E.; Levi, G. Freeze-and-Release Direct Optimization Method for Variational Calculations of Excited Electronic States. _J. Chem. Theory Comput._ 2026. [DOI:10.1021/acs.jctc.5c01974](https://doi.org/10.1021/acs.jctc.5c01974)
@@ -11,7 +13,7 @@ Schmerwitz, Y. L. A.; Selenius, E.; Levi, G. Freeze-and-Release Direct Optimizat
 Haubro, M. L.; Zederkof, D. B.; Khakhulin, D.; Yousef, H.; Jiang, Y.; Bermudez, I. J.; Kluyver, T.; Lima, F.; Biednov, M.; Milne, C.; Uemura, Y.; Zalden, P.; Wang, H.; Dohn, A. O.; Mitterer, K.; Markmann, V.; Ohlson, O.; Wachter-Lehn, M. T.; Lenzen, P.; Jensen, B. K.; Høholdt, A.; van Driel, T. B.; Nimmrich, A.; Selenius, E.; Levi, G.; Møller, B.; Nielsen, M. M.; Haldrup, K. Analysis Strategies for Time-Resolved X-ray Solution Scattering at High Repetition Rate XFEL Sources. _J. Synchrotron Radiat._ 2026, **33**, 18–31. [DOI:10.1107/S1600577525009737](https://doi.org/10.1107/S1600577525009737)  
 
 **2025**  
-Thirion, L.; Schmerwitz, Y. L. A.; Kroesbergen, M.; Levi, G.; Jónsson, E. Ö.; Bilous, P.; Jónsson, H.; Hansmann, P. Natural-Orbital-Based Neural Network Configuration Interaction. _arXiv:2510.27665_ 2025.  
+Thirion, L.; Schmerwitz, Y. L. A.; Kroesbergen, M.; Levi, G.; Jónsson, E. Ö.; Bilous, P.; Jónsson, H.; Hansmann, P. Natural-Orbital-Based Neural Network Configuration Interaction. _arXiv_ 2025. [DOI:10.48550/arXiv.2510.27665](https://doi.org/10.48550/arXiv.2510.27665)  
 
 Mitterer, K. M.; Selenius, E.; Haubro, M. L.; Christiansen, M. A. H.; Markmann, V.; Hansen, B. L.; Krell-Jørgensen, M.; Hoock, J. G. F.; Lorentzen, V.; Beale, E. V.; Johnson, P. J. M.; Gosztola, D. J.; Cirelli, C.; Bacellar, C.; Dohn, A. O.; Laraia, L.; Møller, K. B.; Haldrup, K.; Levi, G.; Nielsen, M. M. Atomic-Scale Observation of Polar Solvation Dynamics Triggered by Photoinduced Charge Transfer in an Organic Chromophore. _Research Square_ 2025. [DOI:10.21203/rs.3.rs-7775086/v1](https://doi.org/10.21203/rs.3.rs-7775086/v1)  
 

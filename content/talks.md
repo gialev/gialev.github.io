@@ -2,7 +2,11 @@
 title: "Talks and seminars"
 ---
 
-**2026**     
+**2026**    
+Excited-state Properties beyond the Excitation Energy with Orbital-Optimized Density Functional Calculations    
+Seminar, Chemistry biochemistry seminar series, University of Iceland (Apr)     
+Speaker: **Lorenzo Restaino** 
+
 Orbital-Optimized Density Functional Calculations of Charge Transfer and Rydberg Excited States     
 Seminar, THEOR CHEM group, Leiden University (Feb)     
 Speaker: **Gianluca Levi**   
