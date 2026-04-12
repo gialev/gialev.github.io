@@ -9,7 +9,6 @@ theme = "beautifulhugo"
 
 [[Params.bigimg]]
   src = "img/homepage_cover.png"
-  position = "center center"
 
 [Params.author]
   name = "Gianluca Levi"

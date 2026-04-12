@@ -182,7 +182,7 @@ Science Institute of the …">
   .intro-header .page-heading h1,
   .intro-header .post-heading h1,
   .intro-header .site-heading h1 {
-    font-size: 38px;
+    font-size: 44px;
   }
 
   .intro-header .page-heading .subheading,
@@ -201,6 +201,56 @@ Science Institute of the …">
 
   .blog-post h3 {
     font-size: 22px;
+  }
+
+  .intro-header.big-img {
+    position: relative;
+    background-position: center 50% !important;
+  }
+
+  .intro-header.big-img::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(255, 255, 255, 0.40);
+    z-index: 1;
+  }
+
+  .intro-header.big-img .page-heading {
+    position: relative;
+    z-index: 2;
+    color: #111 !important;
+    text-shadow: 0 1px 3px rgba(255, 255, 255, 0.45) !important;
+  }
+
+   
+   
+   
+   
+   
+   
+
+  .intro-header.big-img .page-heading .page-subheading,
+  .intro-header.big-img .page-heading .subheading,
+  .intro-header.big-img .page-heading span {
+    color: #222 !important;
+    text-shadow: 0 1px 2px rgba(255, 255, 255, 0.35) !important;
+  }
+
+  @media only screen and (min-width: 768px) {
+    .intro-header.big-img .page-heading,
+    .intro-header.big-img .post-heading,
+    .intro-header.big-img .site-heading {
+      padding: 240px 0 220px;
+    }
+  }
+
+  @media only screen and (max-width: 767px) {
+    .intro-header.big-img .page-heading,
+    .intro-header.big-img .post-heading,
+    .intro-header.big-img .site-heading {
+      padding: 140px 0 110px;
+    }
   }
 </style>
 
