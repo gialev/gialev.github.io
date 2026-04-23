@@ -4,7 +4,7 @@ title: "Group Members"
 
 ## Principal Inverstigator     
 <br>  
-<img src="../images/gianluca_portrait_small.png"  
+<img src="../img/gianluca_portrait_small.png"  
      alt="Gianluca's portrait"
      style="width: 180px; height: 215px; float: left; margin-right: 30px;">
 <p style="margin-top: -15px;">
@@ -21,7 +21,7 @@ Reserach Specialist, University of Iceland
 
 ## Researchers (associated)
 <br>  
-<img src="../images/elli_portrait_small.png"  
+<img src="../img/elli_portrait_small.png"  
      alt="Elli's portrait" 
      style="width: 180px; height: 215px; float: left; margin-right: 30px;">
 <p style="margin-top: -15px;">
@@ -37,7 +37,7 @@ Research Specialist, University of Iceland
 
 ## Postdoctoral Researchers
 <br>
-<img src="../images/lorenzo_portrait_small.png"  
+<img src="../img/lorenzo_portrait_small.png"  
      alt="Lorenzo's portrait" 
      style="width: 180px; height: 215px; float: left; margin-right: 30px;">
 
@@ -51,7 +51,7 @@ University of Iceland
 <div style="clear: both;"></div>
 <br>
 
-<img src="../images/simon_portrait_small.png"  
+<img src="../img/simon_portrait_small.png"  
      alt="Simon's portrait" 
      style="width: 180px; height: 215px; float: left; margin-right: 30px;">
 
@@ -67,7 +67,7 @@ University of Trieste
 
 ## PhD Students
 <br>
-<img src="../images/diego_portrait_small.png"  
+<img src="../img/diego_portrait_small.png"  
      alt="Diego's portrait" 
      style="width: 180px; height: 215px; float: left; margin-right: 30px;">
 
@@ -81,7 +81,7 @@ University of Iceland
 <div style="clear: both;"></div>
 <br>
 
-<img src="../images/giulia_portrait_small.png"  
+<img src="../img/giulia_portrait_small.png"  
      alt="Giulia's portrait" 
      style="width: 180px; height: 215px; float: left; margin-right: 30px;">
 
@@ -96,22 +96,25 @@ University of Trieste
 <div style="clear: both; margin-bottom: 55px;"></div>
 
 
-### Former members 
-* Yorick Leonard A. Schmerwitz (now Max-Planck-Institut für Kohlenforschung)
+### Former members
+<br>
+
+* Yorick Leonard A. Schmerwitz (now Max-Planck-Institut für Kohlenforschung)   
 * Benedikt Orri Birgisson
+
+<div style="clear: both; margin-bottom: 55px;"></div>
 
 
 <h1 style="text-align: center;"> Collaborators </h1>
+<br>
 
-### University of Iceland
-[Elvar Örn Jónsson](https://iris.rais.is/en/persons/elvar-%C3%B6rn-j%C3%B3nsson)    
-[Hannes Jónsson](https://hj.hi.is/indexE.html)    
-
-### Technical University of Denmark
-[Asmus Ougaard Dohn](https://orbit.dtu.dk/en/persons/asmus-ougaard-dohn)    
-[Kristoffer Haldrup](https://orbit.dtu.dk/en/persons/kristoffer-haldrup)    
-[Luca Laraia](https://www.kemi.dtu.dk/english/research/organic-inorganic-chemistry/kemisk_biologi/lucalaraia)    
-[Martin Meedom Nielsen](https://orbit.dtu.dk/en/persons/martin-meedom-nielsen)
-
-### University of Erlangen–Nuremberg
-[Philipp Hansmann](https://www.agmm.nat.fau.eu/)
+* Asmus Ougaard Dohn (Technical University of Denmark)  
+* Elvar Örn Jónsson (University of Iceland)
+* Hannes Jónsson (University of Iceland)
+* Klaus Braagaard Møller (Technical University of Denmark) 
+* Kristoffer Haldrup (Technical University of Denmark)
+* Luca Laraia (Technical University of Denmark)    
+* Martin Meedom Nielsen (Technical University of Denmark) 
+* Philipp Hansmann (University of Erlangen–Nuremberg)
+* Thanja Lamberts (Leiden University)
+* Yorick Leonard A. Schmerwitz (Max-Planck-Institut für Kohlenforschung)   
