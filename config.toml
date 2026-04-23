@@ -1,0 +1,45 @@
+baseURL = "https://gialev.github.io/"
+languageCode = "en-us"
+title = "Levi Research Group"
+theme = "beautifulhugo"
+
+[Params]
+  homeTitle = "Electronic Excitations and Photoinduced Molecular Dynamics"
+  subtitle = "Exploring light-driven processes from excited-state method development to ultrafast experiments"
+
+[[Params.bigimg]]
+  src = "img/homepage_cover.png"
+
+[Params.author]
+  name = "Levi Research Group"
+  email = "giale@hi.is"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menu.main]]
+  name = "Home"
+  url = ""
+  weight = 1
+
+[[menu.main]]
+  name = "People"
+  url = "people"
+  weight = 2
+
+[[menu.main]]
+  name = "Publications"
+  url = "publications"
+  weight = 3
+
+[[menu.main]]
+  name = "Talks"
+  url = "talks"
+  weight = 4
+
+[[menu.main]]
+  name = "Funding"
+  url = "funding"
+  weight = 5
