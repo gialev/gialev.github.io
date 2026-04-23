@@ -46,72 +46,92 @@ ORCID   Web of Science   Google Scholar
 E-mail: lorenzo@hi.is">
   <meta name="author" content="Levi Research Group"/><script type="application/ld+json">
 {
-    "@context": "http://schema.org",
-    "@type": "WebSite",
-    "name": "Levi Research Group",
-    
-    "url": "http:\/\/localhost:1313\/"
-}
-</script><script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Organization",
-  "name": "",
-  "url": "http:\/\/localhost:1313\/"
-  
-  
-  
-  
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Levi Research Group",
+  "url": "http://localhost:1313/",
+  "@id": "http://localhost:1313/#website"
 }
 </script>
 <script type="application/ld+json">
 {
-  "@context": "http://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [{
-        "@type": "ListItem",
-        "position": 1,
-        "item": {
-          "@id": "http:\/\/localhost:1313\/",
-          "name": "home"
-        }
-    },{
-        "@type": "ListItem",
-        "position": 3,
-        "item": {
-          "@id": "http:\/\/localhost:1313\/people\/",
-          "name": "Group members"
-        }
-    }]
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Levi Research Group",
+  "@id": "http://localhost:1313/#organization",
+  "url": "http://localhost:1313/"
 }
-</script><script type="application/ld+json">
+</script>
+<script type="application/ld+json">
 {
-  "@context": "http://schema.org",
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Group Members",
+  "@id": "http://localhost:1313/people/",
+  "url": "http://localhost:1313/people/",
+  "breadcrumb": {
+    "@id": "http://localhost:1313/people/#breadcrumb"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@id": "http://localhost:1313/people/#breadcrumb",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "item": "http://localhost:1313/",
+      "name": "Home",
+      "position": 1
+    },
+    {
+      "@type": "ListItem",
+      "item": "http://localhost:1313/people/",
+      "name": "Group Members",
+      "position": 2
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
   "@type": "Article",
+  "@id": "http://localhost:1313/people/#article",
+  "isPartOf": {
+    "@id": "http://localhost:1313/people/"
+  },
   "author": {
-    "name" : "Levi Research Group"
+    "name": "Levi Research Group",
+    "url": "http://localhost:1313/",
+    "@id": "http://localhost:1313/#author"
   },
   "headline": "Group Members",
-  "description" : "Principal Inverstigator Gianluca Levi Assoc. Prof., University of Trieste Reserach Specialist, University of Iceland ORCID Web of Science Google Scholar CV E-mail: gianluca.levi@units.it, giale@hi.is\nResearchers (associated) Elli Inkeri Selenius Research Specialist, University of Iceland ORCID Web of Science Google Scholar\nE-mail: elliselenius@hi.is\nPostdoctoral Researchers Lorenzo Restaino University of Iceland ORCID Web of Science Google Scholar\nE-mail: lorenzo@hi.is\n",
-  "inLanguage" : "en",
+  "description": "Principal Inverstigator Gianluca Levi Assoc. Prof., University of Trieste Reserach Specialist, University of Iceland ORCID Web of Science Google Scholar CV E-mail: gianluca.levi@units.it, giale@hi.is\nResearchers (associated) Elli Inkeri Selenius Research Specialist, University of Iceland ORCID Web of Science Google Scholar\nE-mail: elliselenius@hi.is\nPostdoctoral Researchers Lorenzo Restaino University of Iceland ORCID Web of Science Google Scholar\nE-mail: lorenzo@hi.is\n",
+  "inLanguage": "en",
   "wordCount":  163 ,
-  "datePublished" : "0001-01-01T00:00:00\u002b00:00",
-  "dateModified" : "0001-01-01T00:00:00\u002b00:00",
-  "image" : "http:\/\/localhost:1313\/",
-  "keywords" : [ "" ],
-  "mainEntityOfPage" : "http:\/\/localhost:1313\/people\/",
-  "publisher" : {
+  "dateCreated": "0001-01-01T00:00:00+00:00",
+  "datePublished": "0001-01-01T00:00:00+00:00",
+  "dateModified": "0001-01-01T00:00:00+00:00",
+  "keywords": [ "" ],
+  "mainEntityOfPage": {
+    "@id": "http://localhost:1313/people/"
+  },
+  "publisher": {
     "@type": "Organization",
-    "name" : "http:\/\/localhost:1313\/",
-    "logo" : {
-        "@type" : "ImageObject",
-        "url" : "http:\/\/localhost:1313\/",
-        "height" :  60 ,
-        "width" :  60
+    "name": "http://localhost:1313/",
+    "logo": {
+        "@type": "ImageObject",
+        "url": "http://localhost:1313/",
+        "height": 60 ,
+        "width": 60
     }
   }
 }
 </script>
+
 
 
 <meta property="og:title" content="Group Members" />
@@ -144,7 +164,7 @@ Lorenzo Restaino
 University of Iceland 
 ORCID   Web of Science   Google Scholar
 
-E-mail: lorenzo@hi.is">
+E-mail: lorenzo@hi.is" />
 <meta property="og:url" content="http://localhost:1313/people/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Levi Research Group" />
@@ -190,7 +210,7 @@ Gianluca Levi …">
   }
 
   body {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .navbar-custom .nav li a {

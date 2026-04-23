@@ -30,72 +30,92 @@ Seminar, Laboratoire de Chimie Quantique (LCQ), Strasbourg University (Dec)
 Speaker: Gianluca Levi">
   <meta name="author" content="Levi Research Group"/><script type="application/ld+json">
 {
-    "@context": "http://schema.org",
-    "@type": "WebSite",
-    "name": "Levi Research Group",
-    
-    "url": "http:\/\/localhost:1313\/"
-}
-</script><script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Organization",
-  "name": "",
-  "url": "http:\/\/localhost:1313\/"
-  
-  
-  
-  
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Levi Research Group",
+  "url": "http://localhost:1313/",
+  "@id": "http://localhost:1313/#website"
 }
 </script>
 <script type="application/ld+json">
 {
-  "@context": "http://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [{
-        "@type": "ListItem",
-        "position": 1,
-        "item": {
-          "@id": "http:\/\/localhost:1313\/",
-          "name": "home"
-        }
-    },{
-        "@type": "ListItem",
-        "position": 3,
-        "item": {
-          "@id": "http:\/\/localhost:1313\/talks\/",
-          "name": "Talks and seminars"
-        }
-    }]
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Levi Research Group",
+  "@id": "http://localhost:1313/#organization",
+  "url": "http://localhost:1313/"
 }
-</script><script type="application/ld+json">
+</script>
+<script type="application/ld+json">
 {
-  "@context": "http://schema.org",
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Talks and seminars",
+  "@id": "http://localhost:1313/talks/",
+  "url": "http://localhost:1313/talks/",
+  "breadcrumb": {
+    "@id": "http://localhost:1313/talks/#breadcrumb"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@id": "http://localhost:1313/talks/#breadcrumb",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "item": "http://localhost:1313/",
+      "name": "Home",
+      "position": 1
+    },
+    {
+      "@type": "ListItem",
+      "item": "http://localhost:1313/talks/",
+      "name": "Talks and seminars",
+      "position": 2
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
   "@type": "Article",
+  "@id": "http://localhost:1313/talks/#article",
+  "isPartOf": {
+    "@id": "http://localhost:1313/talks/"
+  },
   "author": {
-    "name" : "Levi Research Group"
+    "name": "Levi Research Group",
+    "url": "http://localhost:1313/",
+    "@id": "http://localhost:1313/#author"
   },
   "headline": "Talks and seminars",
-  "description" : "2026 Excited-state Properties beyond the Excitation Energy with Orbital-Optimized Density Functional Calculations Seminar, Chemistry biochemistry seminar series, University of Iceland (Apr) Speaker: Lorenzo Restaino\nOrbital-Optimized Density Functional Calculations of Charge Transfer and Rydberg Excited States Seminar, THEOR CHEM group, Leiden University (Feb) Speaker: Gianluca Levi\nOrbital-Optimized Density Functional Calculations of Charge Transfer and Rydberg Excited States Seminar, International Centre for Theoretical Physics (ICTP), Trieste (Feb) Speaker: Gianluca Levi\n2025 Orbital-Optimized Density Functional Calculations of Charge Transfer and Rydberg Excited States Seminar, Laboratoire de Chimie Quantique (LCQ), Strasbourg University (Dec) Speaker: Gianluca Levi\n",
-  "inLanguage" : "en",
+  "description": "2026 Excited-state Properties beyond the Excitation Energy with Orbital-Optimized Density Functional Calculations Seminar, Chemistry biochemistry seminar series, University of Iceland (Apr) Speaker: Lorenzo Restaino\nOrbital-Optimized Density Functional Calculations of Charge Transfer and Rydberg Excited States Seminar, THEOR CHEM group, Leiden University (Feb) Speaker: Gianluca Levi\nOrbital-Optimized Density Functional Calculations of Charge Transfer and Rydberg Excited States Seminar, International Centre for Theoretical Physics (ICTP), Trieste (Feb) Speaker: Gianluca Levi\n2025 Orbital-Optimized Density Functional Calculations of Charge Transfer and Rydberg Excited States Seminar, Laboratoire de Chimie Quantique (LCQ), Strasbourg University (Dec) Speaker: Gianluca Levi\n",
+  "inLanguage": "en",
   "wordCount":  1064 ,
-  "datePublished" : "0001-01-01T00:00:00\u002b00:00",
-  "dateModified" : "0001-01-01T00:00:00\u002b00:00",
-  "image" : "http:\/\/localhost:1313\/",
-  "keywords" : [ "" ],
-  "mainEntityOfPage" : "http:\/\/localhost:1313\/talks\/",
-  "publisher" : {
+  "dateCreated": "0001-01-01T00:00:00+00:00",
+  "datePublished": "0001-01-01T00:00:00+00:00",
+  "dateModified": "0001-01-01T00:00:00+00:00",
+  "keywords": [ "" ],
+  "mainEntityOfPage": {
+    "@id": "http://localhost:1313/talks/"
+  },
+  "publisher": {
     "@type": "Organization",
-    "name" : "http:\/\/localhost:1313\/",
-    "logo" : {
-        "@type" : "ImageObject",
-        "url" : "http:\/\/localhost:1313\/",
-        "height" :  60 ,
-        "width" :  60
+    "name": "http://localhost:1313/",
+    "logo": {
+        "@type": "ImageObject",
+        "url": "http://localhost:1313/",
+        "height": 60 ,
+        "width": 60
     }
   }
 }
 </script>
+
 
 
 <meta property="og:title" content="Talks and seminars" />
@@ -112,7 +132,7 @@ Speaker: Gianluca Levi
 2025  
 Orbital-Optimized Density Functional Calculations of Charge Transfer and Rydberg Excited States  
 Seminar, Laboratoire de Chimie Quantique (LCQ), Strasbourg University (Dec)  
-Speaker: Gianluca Levi">
+Speaker: Gianluca Levi" />
 <meta property="og:url" content="http://localhost:1313/talks/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Levi Research Group" />
@@ -156,7 +176,7 @@ Seminar, Chemistry biochemistry seminar series, University of Iceland (Apr) …"
   }
 
   body {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .navbar-custom .nav li a {
