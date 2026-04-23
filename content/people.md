@@ -11,7 +11,7 @@ title: "Group Members"
 
 #### Gianluca Levi
 Assoc. Prof., University of Trieste    
-Reserach Specialist, University of Iceland    
+Research Specialist, University of Iceland    
 [ORCID](https://orcid.org/0000-0002-4542-0653) &nbsp; [Web of Science](https://www.webofscience.com/wos/author/record/GYQ-9226-2022) &nbsp; [Google Scholar](https://scholar.google.com/citations?user=HhElK98AAAAJ&hl=en) &nbsp; [CV](../doc/cv_giale.pdf)
 <br>  
 **E-mail**: gianluca.levi@units.it, giale@hi.is
