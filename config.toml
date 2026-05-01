@@ -6,6 +6,7 @@ theme = "beautifulhugo"
 [Params]
   homeTitle = "Electronic Excitations and Photoinduced Molecular Dynamics"
   subtitle = "Exploring light-driven processes from excited-state method development to ultrafast experiments"
+  mainSections = []
 
 [[Params.bigimg]]
   src = "img/homepage_cover.png"
