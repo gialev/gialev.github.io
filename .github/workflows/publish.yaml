@@ -49,8 +49,8 @@ jobs:
         env:
           HUGO_ENVIRONMENT: production
         run: |
-          echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
-          hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+          rm -rf public
+          hugo --minify --baseURL "https://gialev.github.io/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

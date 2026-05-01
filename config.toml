@@ -21,25 +21,25 @@ theme = "beautifulhugo"
 
 [[menu.main]]
   name = "Home"
-  url = ""
+  url = "/"
   weight = 1
 
 [[menu.main]]
   name = "People"
-  url = "people"
+  url = "/people/"
   weight = 2
 
 [[menu.main]]
   name = "Publications"
-  url = "publications"
+  url = "/publications/"
   weight = 3
 
 [[menu.main]]
   name = "Talks"
-  url = "talks"
+  url = "/talks/"
   weight = 4
 
 [[menu.main]]
   name = "Funding"
-  url = "funding"
+  url = "/funding/"
   weight = 5
