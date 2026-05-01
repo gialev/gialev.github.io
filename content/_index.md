@@ -22,9 +22,10 @@ We are part of:
 
 ## News
 
+* **Apr 2026**: We are currently looking for a PhD candidate to join our group at the University of Trieste. 
+View opening.
 
-
-* We are organizing the **16th Nordic Baltic Femtochemistry Conference**, which will take place at the
+* **Apr 2026**: We are organizing the **16th Nordic Baltic Femtochemistry Conference**, which will take place at the
 **University of Iceland in Reykjavík, June 29 – July 1, 2026**. 
 Visit the [conference website](https://theochemui.github.io/nbfc26/). 
 There is still time to [register](https://theochemui.github.io/nbfc26/registration/)! 

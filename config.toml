@@ -40,6 +40,11 @@ theme = "beautifulhugo"
   weight = 4
 
 [[menu.main]]
+  name = "Openings"
+  url = "/openings/"
+  weight = 4
+
+[[menu.main]]
   name = "Funding"
   url = "/funding/"
-  weight = 5
+  weight = 6
