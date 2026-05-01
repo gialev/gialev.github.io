@@ -2,7 +2,11 @@
 title: "Talks and seminars"
 ---
 
-**2026**    
+**2026**
+Orbital-optimized density functional calculations of challenging charge transfer excitations
+Seminar, University of Jyväskylä, online (Apr)     
+Speaker: **Elli Selenius** 
+
 Excited-state Properties beyond the Excitation Energy with Orbital-Optimized Density Functional Calculations    
 Seminar, Chemistry biochemistry seminar series, University of Iceland (Apr)     
 Speaker: **Lorenzo Restaino** 
