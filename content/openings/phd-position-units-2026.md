@@ -1,6 +1,7 @@
 ---
-title: "PhD position in theoretical and physical chemistry at the University of Trieste"
+title: "PhD position at the University of Trieste"
 draft: false
+type: "page"
 ---
 
 A **3-year PhD position** is available in the physical and theoretical chemistry group of **Assoc. Prof. Gianluca Levi** 
@@ -56,6 +57,4 @@ The expression of interest should include the following documents:
 
 ## Contact
 
-For questions, please contact:
-
-[gianluca.levi@units.it](mailto:gianluca.levi@units.it)
+For questions, please contact: [gianluca.levi@units.it](mailto:gianluca.levi@units.it)
