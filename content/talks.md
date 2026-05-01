@@ -2,8 +2,8 @@
 title: "Talks and seminars"
 ---
 
-**2026**
-Orbital-optimized density functional calculations of challenging charge transfer excitations
+**2026**     
+Orbital-optimized density functional calculations of challenging charge transfer excitations     
 Seminar, University of Jyväskylä, online (Apr)     
 Speaker: **Elli Selenius** 
 
