@@ -16,3 +16,17 @@ We are part of:
 <div class="center-button">
   <a href="/people/" class="white-button">Meet the team</a>
 </div>
+<br>  
+
+<div class="well">
+
+## News
+
+
+
+* We are organizing the **16th Nordic Baltic Femtochemistry Conference**, which will take place at the
+**University of Iceland in Reykjavík, June 29 – July 1, 2026**. 
+Visit the [conference website](https://theochemui.github.io/nbfc26/). 
+There is still time to [register](https://theochemui.github.io/nbfc26/registration/)! 
+
+</div>
