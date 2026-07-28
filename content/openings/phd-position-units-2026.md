@@ -42,7 +42,7 @@ must hold, or be about to obtain, a **Master’s degree in Chemistry or Physics*
 
 ## Expression of interest 
 
-Interested applicants are encouraged to submit an expression of interest before **May 10, 2026**.
+Interested applicants are encouraged to submit an expression of interest before **August 15, 2026**.
 
 The expression of interest should include the following documents:
 

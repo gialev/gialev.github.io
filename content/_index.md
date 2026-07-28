@@ -22,8 +22,8 @@ We are part of:
 
 ## News
 
-* **Apr 2026**: We are currently looking for a PhD candidate to join our group at the University of Trieste. 
-View opening.
+* **July 2026**: We are looking for a PhD candidate to join our group at the University of Trieste. 
+View [opening](/openings/phd-position-units-2026/).
 
 * **Apr 2026**: We are organizing the **16th Nordic Baltic Femtochemistry Conference**, which will take place at the
 **University of Iceland in Reykjavík, June 29 – July 1, 2026**. 
