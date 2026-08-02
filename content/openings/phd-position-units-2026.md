@@ -38,7 +38,8 @@ attending conferences and research visits.
 ## Candidate profile
 
 We seek outstanding and motivated candidates with the ability to work both independently and in a team. Candidates 
-must hold, or be about to obtain, a **Master’s degree in Chemistry or Physics** and have above-average grades.
+must hold, or be about to obtain, a **Master’s degree in Chemistry or Physics** and have above-average grades. The ideal 
+candidate has a strong background in quantum mechanics and electronic structure theory as well as experience in programming.
 
 ## Expression of interest 
 
