@@ -4,6 +4,12 @@ url: "/publications/"
 ---
 
 **2026**  
+Restaino, L.; Gamboni, G.; Selenius, E.; Levi, G. Orbital-Optimized Density Functional Calculations of Excited Electronic States: Recent Advances and Perspectives. _arXiv_ 2026. [DOI:10.48550/arXiv.2606.13654](https://doi.org/10.48550/arXiv.2606.13654)
+
+Restaino, L.; Llorena Prieto, D.; John, J.; Schmerwitz, Y. L. A.; Jónsson, E. Ö.; Levi, G. Excited-State Properties Beyond the Excitation Energy from Orbital-Optimized Density Functional Calculations II: Absorption Spectra. _arXiv_ 2026. [DOI:10.48550/arXiv.2606.13243](https://doi.org/10.48550/arXiv.2606.13243)
+
+Restaino, L.; John, J.; Llorena Prieto, D.; Schmerwitz, Y. L. A.; Jónsson, E. Ö.; Levi, G. Excited-State Properties Beyond the Excitation Energy from Orbital-Optimized Density Functional Calculations I: Dipole Moments of Rydberg States. _arXiv_ 2026. [DOI:10.48550/arXiv.2604.05802](https://doi.org/10.48550/arXiv.2606.12272)
+
 Barreiro-Lage, D.; Levi, G.; Jónsson, H.; Lamberts, T. Valence and Rydberg Excited State Bond Dissociation Curves of CO2 from Orbital-Optimized Density Functional Calculations. _arXiv_ 2026. [DOI:10.48550/arXiv.2604.05802](https://doi.org/10.48550/arXiv.2604.05802)
 
 Mitterer, K. M.; Selenius, E.; Haubro, M. L.; Christiansen, M. A. H.; Markmann, V.; Hansen, B. L.; Krell-Jørgensen, M.; Hoock, J. G. F.; Lorentzen, V.; Beale, E. V.; Johnson, P. J. M.; Gosztola, D. J.; Cirelli, C.; Bacellar, C.; Dohn, A. O.; Laraia, L.; Møller, K. B.; Haldrup, K.; Levi, G.; Nielsen, M. M. Tracking polar solvation dynamics of a photoexcited organic chromophore with ultrafast X-ray scattering. _Nat. Commun._ 2026. [DOI:10.1038/s41467-026-71635-1](https://doi.org/10.1038/s41467-026-71635-1)
