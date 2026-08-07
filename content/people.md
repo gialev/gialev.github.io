@@ -113,6 +113,7 @@ University of Trieste
 * Hannes Jónsson (University of Iceland)
 * Klaus Braagaard Møller (Technical University of Denmark) 
 * Kristoffer Haldrup (Technical University of Denmark)
+* Laura Viaud (University of Bordeaux)   
 * Luca Laraia (Technical University of Denmark)    
 * Martin Meedom Nielsen (Technical University of Denmark) 
 * Philipp Hansmann (University of Erlangen–Nuremberg)
